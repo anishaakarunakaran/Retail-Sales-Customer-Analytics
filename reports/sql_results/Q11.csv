@@ -1,0 +1,618 @@
+customer_id,customer_name,customer_segment,last_order_date,days_since_last
+107,Michael Wilson,Consumer,2021-01-01,1460
+114,Charles Martinez,Consumer,2021-01-03,1458
+1032,Ashley Rodriguez,Corporate,2021-01-26,1435
+239,Susan Lewis,Consumer,2021-02-04,1426
+1529,Robert Martin,Consumer,2021-03-16,1386
+397,Brandon Young,Consumer,2021-03-24,1378
+1266,Patricia King,Corporate,2021-05-11,1330
+1644,Ashley Johnson,Consumer,2021-05-15,1326
+37,Justin Johnson,Consumer,2021-05-19,1322
+47,Scott Wilson,Home Office,2021-05-25,1316
+1,Andrew Lewis,Corporate,2021-06-16,1294
+1003,Jennifer Brown,Consumer,2021-07-07,1273
+713,Joshua Lopez,Consumer,2021-07-10,1270
+601,Mary Allen,Small Business,2021-07-26,1254
+461,Sarah Garcia,Home Office,2021-08-28,1221
+927,Robert Garcia,Consumer,2021-08-30,1219
+201,Angela Wilson,Consumer,2021-08-31,1218
+1312,Linda Lewis,Consumer,2021-09-09,1209
+1526,Karen Williams,Consumer,2021-09-09,1209
+1253,Amy Jackson,Corporate,2021-09-18,1200
+1469,Brittany King,Consumer,2021-09-26,1192
+812,Susan Thompson,Consumer,2021-10-04,1184
+1547,William Jackson,Consumer,2021-10-09,1179
+893,Linda Anderson,Consumer,2021-10-13,1175
+269,William Harris,Small Business,2021-10-17,1171
+1732,Robert Allen,Consumer,2021-11-01,1156
+1511,Amanda Garcia,Consumer,2021-11-02,1155
+1652,Thomas Clark,Consumer,2021-11-03,1154
+566,Michael Smith,Consumer,2021-11-07,1150
+1608,Emily Martin,Consumer,2021-11-07,1150
+298,Anthony Thomas,Home Office,2021-11-17,1140
+1039,Brittany Jones,Small Business,2021-11-18,1139
+1132,Jason Jones,Consumer,2021-12-04,1123
+746,Karen White,Consumer,2021-12-12,1115
+278,Michael Thompson,Corporate,2021-12-19,1108
+1473,Jason King,Small Business,2021-12-20,1107
+698,Justin White,Consumer,2021-12-30,1097
+997,Jessica Martinez,Consumer,2022-01-09,1087
+1453,Stephanie Lewis,Corporate,2022-01-14,1082
+179,Sandra Jackson,Consumer,2022-01-20,1076
+1646,Barbara Clark,Small Business,2022-01-28,1068
+840,Charles Miller,Consumer,2022-01-30,1066
+1394,Susan Hernandez,Home Office,2022-02-06,1059
+324,Michael Wilson,Consumer,2022-02-10,1055
+855,Laura Ramirez,Consumer,2022-02-16,1049
+1592,Michelle Johnson,Corporate,2022-02-20,1045
+682,Andrew Rodriguez,Consumer,2022-02-21,1044
+1512,James Lopez,Consumer,2022-02-22,1043
+486,Patricia Thompson,Small Business,2022-02-24,1041
+118,Susan Walker,Consumer,2022-03-08,1029
+1213,Linda Gonzalez,Small Business,2022-03-16,1021
+1400,Andrew Martinez,Corporate,2022-03-21,1016
+1781,Matthew Hernandez,Consumer,2022-03-21,1016
+353,Elizabeth King,Home Office,2022-03-28,1009
+19,Laura Perez,Small Business,2022-03-30,1007
+71,Patricia Jackson,Consumer,2022-03-30,1007
+3,Linda Moore,Small Business,2022-04-04,1002
+1426,Daniel Wilson,Home Office,2022-04-06,1000
+1666,Laura Jones,Consumer,2022-04-19,987
+136,David Walker,Consumer,2022-05-15,961
+290,Charles Walker,Home Office,2022-05-20,956
+1331,Melissa Thomas,Consumer,2022-05-26,950
+15,Laura Martinez,Consumer,2022-06-07,938
+632,Jessica Hernandez,Corporate,2022-06-07,938
+1444,Amanda Davis,Small Business,2022-06-14,931
+460,Andrew Lee,Corporate,2022-06-23,922
+969,William Lopez,Small Business,2022-06-25,920
+635,Patricia Anderson,Corporate,2022-07-09,906
+342,Thomas Robinson,Consumer,2022-07-13,902
+300,Rebecca Moore,Consumer,2022-08-01,883
+394,Ashley Harris,Consumer,2022-08-01,883
+314,Kevin Thomas,Consumer,2022-08-06,878
+961,James Martinez,Small Business,2022-08-08,876
+142,Amanda Wilson,Consumer,2022-08-10,874
+1117,Daniel Martin,Consumer,2022-08-12,872
+1011,Laura Wilson,Consumer,2022-08-23,861
+141,William Robinson,Consumer,2022-08-25,859
+818,David Thompson,Consumer,2022-08-25,859
+18,Scott Moore,Consumer,2022-08-26,858
+1741,William Jackson,Home Office,2022-08-27,857
+1377,Joshua Allen,Corporate,2022-08-28,856
+754,Justin Allen,Small Business,2022-09-01,852
+1177,Thomas Smith,Corporate,2022-09-02,851
+575,William Smith,Small Business,2022-09-04,849
+1359,Kimberly Davis,Consumer,2022-09-04,849
+934,Linda Garcia,Consumer,2022-09-11,842
+1017,Kimberly Harris,Small Business,2022-09-16,837
+647,Karen Rodriguez,Corporate,2022-09-28,825
+422,Jessica Brown,Consumer,2022-10-20,803
+1454,Jason Hernandez,Consumer,2022-10-22,801
+1422,Christopher Smith,Consumer,2022-10-26,797
+170,Jeffrey Lee,Consumer,2022-10-27,796
+941,Emily Robinson,Consumer,2022-10-31,792
+308,Emily Johnson,Home Office,2022-11-03,789
+235,Thomas Lee,Consumer,2022-11-06,786
+570,Patricia Brown,Consumer,2022-11-09,783
+137,Amanda Garcia,Corporate,2022-11-19,773
+1137,Mary Harris,Small Business,2022-11-24,768
+375,Barbara Thompson,Consumer,2022-12-01,761
+931,Robert Hernandez,Home Office,2022-12-04,758
+592,Amanda Moore,Consumer,2022-12-06,756
+13,William Moore,Corporate,2022-12-11,751
+1021,Nicole Garcia,Home Office,2022-12-15,747
+86,Nicole Moore,Consumer,2022-12-19,743
+38,Brittany Martinez,Home Office,2022-12-20,742
+147,James Williams,Corporate,2022-12-24,738
+388,Sharon Brown,Home Office,2022-12-26,736
+219,Michelle Harris,Consumer,2022-12-30,732
+596,Daniel Lopez,Corporate,2022-12-30,732
+1624,Patricia Wilson,Small Business,2023-01-13,718
+1028,Thomas Thompson,Consumer,2023-01-17,714
+1639,Emily Miller,Consumer,2023-02-10,690
+1784,Andrew Gonzalez,Home Office,2023-02-10,690
+1167,Michael White,Corporate,2023-02-11,689
+1345,Andrew Davis,Corporate,2023-02-14,686
+1050,Elizabeth Rodriguez,Home Office,2023-02-22,678
+1216,Michelle Davis,Consumer,2023-02-22,678
+1655,Jessica Taylor,Consumer,2023-02-23,677
+532,Melissa Perez,Corporate,2023-02-25,675
+1297,Susan Allen,Home Office,2023-03-03,669
+1186,Jennifer Perez,Home Office,2023-03-04,668
+1355,Kimberly Rodriguez,Consumer,2023-03-04,668
+338,Melissa White,Consumer,2023-03-05,667
+1448,Ashley Rodriguez,Small Business,2023-03-05,667
+340,Emily Clark,Home Office,2023-03-06,666
+693,John Harris,Consumer,2023-03-08,664
+1205,Angela Harris,Consumer,2023-03-08,664
+508,Elizabeth Ramirez,Home Office,2023-03-09,663
+1169,Susan Clark,Corporate,2023-03-09,663
+811,Stephanie Lopez,Corporate,2023-03-14,658
+876,Tiffany Perez,Consumer,2023-03-19,653
+1145,Mary Smith,Home Office,2023-03-26,646
+741,Angela Thompson,Small Business,2023-04-09,632
+950,Matthew Taylor,Consumer,2023-04-10,631
+1664,William Clark,Home Office,2023-04-11,630
+155,Sharon Jones,Consumer,2023-04-17,624
+1340,Patricia King,Small Business,2023-04-20,621
+1358,Nicole Hernandez,Small Business,2023-04-25,616
+1564,Tiffany Anderson,Home Office,2023-04-25,616
+727,Mary Perez,Corporate,2023-04-28,613
+1418,Nicole Martinez,Consumer,2023-04-28,613
+543,Melissa Walker,Consumer,2023-04-29,612
+1165,Amy Gonzalez,Consumer,2023-04-30,611
+784,William Miller,Consumer,2023-05-03,608
+1107,Sarah Smith,Consumer,2023-05-07,604
+210,Daniel Moore,Consumer,2023-05-09,602
+1247,Matthew Martinez,Consumer,2023-05-12,599
+598,Amanda Martin,Small Business,2023-05-15,596
+983,John Lopez,Corporate,2023-05-20,591
+1417,Elizabeth Allen,Consumer,2023-05-24,587
+924,Brian Johnson,Consumer,2023-05-27,584
+457,Ashley King,Corporate,2023-05-29,582
+456,Michael Sanchez,Consumer,2023-06-01,579
+443,Sandra Jackson,Consumer,2023-06-06,574
+1286,Michael Walker,Corporate,2023-06-06,574
+1451,Jeffrey Miller,Small Business,2023-06-12,568
+151,David Thomas,Consumer,2023-06-13,567
+98,Jennifer Garcia,Home Office,2023-06-18,562
+1279,Sarah Clark,Home Office,2023-06-21,559
+1619,Sarah Williams,Consumer,2023-06-21,559
+476,Amy Taylor,Consumer,2023-06-25,555
+67,Linda Wilson,Home Office,2023-07-01,549
+428,Elizabeth Thompson,Small Business,2023-07-15,535
+310,Andrew Thomas,Consumer,2023-07-18,532
+1034,Matthew King,Home Office,2023-07-18,532
+1775,Brandon Brown,Consumer,2023-07-18,532
+1438,Robert Jackson,Consumer,2023-07-24,526
+1007,Laura Walker,Small Business,2023-07-25,525
+1425,Tiffany Anderson,Home Office,2023-07-30,520
+1215,Jennifer Jackson,Corporate,2023-07-31,519
+373,Michael Anderson,Corporate,2023-08-01,518
+1069,Stephanie Wilson,Consumer,2023-08-01,518
+590,Thomas Rodriguez,Consumer,2023-08-04,515
+11,Ashley Harris,Corporate,2023-08-16,503
+1191,Laura Hernandez,Consumer,2023-08-16,503
+1348,Susan Miller,Home Office,2023-08-16,503
+1350,James Gonzalez,Consumer,2023-08-18,501
+1681,John Wilson,Home Office,2023-08-18,501
+203,Brandon Jackson,Consumer,2023-08-19,500
+104,Emily Thompson,Consumer,2023-08-23,496
+226,Michelle Sanchez,Consumer,2023-08-25,494
+1166,Kevin Lewis,Small Business,2023-08-25,494
+870,Amy Walker,Home Office,2023-08-26,493
+805,Brittany Lee,Consumer,2023-08-27,492
+991,Sandra Garcia,Home Office,2023-09-01,487
+1315,Karen Davis,Consumer,2023-09-06,482
+761,Stephanie White,Consumer,2023-09-07,481
+954,Matthew Brown,Consumer,2023-09-09,479
+127,Brian Hernandez,Consumer,2023-09-10,478
+1343,Sandra Robinson,Consumer,2023-09-10,478
+636,Ashley Williams,Home Office,2023-09-17,471
+337,Amanda Rodriguez,Corporate,2023-09-20,468
+859,William Lopez,Consumer,2023-09-21,467
+914,Michael Johnson,Small Business,2023-09-23,465
+988,Andrew Davis,Consumer,2023-09-24,464
+1621,Sarah Harris,Consumer,2023-09-24,464
+410,Andrew King,Consumer,2023-09-29,459
+665,Brittany Williams,Consumer,2023-09-29,459
+534,Patricia Young,Consumer,2023-10-03,455
+912,Sharon Robinson,Home Office,2023-10-04,454
+435,Anthony Lee,Consumer,2023-10-07,451
+1118,Brandon Thompson,Consumer,2023-10-07,451
+1487,Barbara King,Consumer,2023-10-09,449
+629,Melissa Martinez,Consumer,2023-10-14,444
+1091,Amy King,Home Office,2023-10-21,437
+1661,Melissa Perez,Small Business,2023-10-22,436
+1513,Daniel Smith,Home Office,2023-10-27,431
+619,Kimberly Lopez,Consumer,2023-10-29,429
+1051,Laura Perez,Consumer,2023-11-01,426
+642,Ashley Thomas,Home Office,2023-11-03,424
+55,Tiffany Allen,Home Office,2023-11-05,422
+108,Jason Gonzalez,Consumer,2023-11-05,422
+1324,Sandra Miller,Consumer,2023-11-05,422
+1176,Daniel Gonzalez,Corporate,2023-11-08,419
+1482,Barbara Moore,Home Office,2023-11-10,417
+409,David Davis,Consumer,2023-11-12,415
+858,Susan Brown,Consumer,2023-11-14,413
+1750,Brandon Jackson,Small Business,2023-11-14,413
+248,Christopher Allen,Small Business,2023-11-15,412
+1545,Rebecca Martin,Home Office,2023-11-15,412
+1305,Sarah Thompson,Corporate,2023-11-18,409
+222,Joshua Young,Consumer,2023-11-19,408
+947,Matthew Anderson,Home Office,2023-11-20,407
+465,Amy Johnson,Corporate,2023-11-23,404
+1309,Thomas Thomas,Corporate,2023-11-23,404
+845,Brian Williams,Corporate,2023-11-24,403
+994,Justin Perez,Consumer,2023-11-28,399
+1733,Brian Thompson,Corporate,2023-11-28,399
+1150,John Moore,Consumer,2023-11-29,398
+1085,Patricia Moore,Home Office,2023-12-02,395
+1333,Andrew Perez,Corporate,2023-12-02,395
+128,Matthew White,Home Office,2023-12-08,389
+708,Anthony King,Consumer,2023-12-08,389
+282,Jason Thompson,Consumer,2023-12-09,388
+1746,Sharon Young,Consumer,2023-12-10,387
+482,Scott Perez,Consumer,2023-12-11,386
+1135,Jason Harris,Consumer,2023-12-11,386
+341,Brian Johnson,Consumer,2023-12-13,384
+546,Melissa Walker,Corporate,2023-12-16,381
+1076,Karen Martin,Consumer,2023-12-16,381
+1445,Amanda Martin,Corporate,2023-12-16,381
+1139,Sarah Allen,Consumer,2023-12-17,380
+1485,Karen Gonzalez,Consumer,2023-12-18,379
+709,Nicole Rodriguez,Corporate,2023-12-19,378
+872,Jennifer Harris,Consumer,2023-12-19,378
+1200,Michelle Martinez,Corporate,2023-12-19,378
+1327,Matthew Garcia,Small Business,2023-12-19,378
+839,Kevin Lee,Consumer,2023-12-21,376
+1693,John Williams,Home Office,2023-12-21,376
+274,Charles Johnson,Home Office,2023-12-22,375
+1691,William Allen,Home Office,2023-12-22,375
+1764,Amanda Wilson,Consumer,2023-12-22,375
+304,Robert Thomas,Consumer,2023-12-23,374
+440,Linda Wilson,Consumer,2023-12-23,374
+536,Michelle Garcia,Home Office,2023-12-24,373
+1078,Anthony Rodriguez,Corporate,2023-12-25,372
+1541,Robert Lewis,Consumer,2023-12-25,372
+573,Jessica Allen,Consumer,2023-12-26,371
+311,Michael Jones,Consumer,2023-12-27,370
+323,Anthony Rodriguez,Consumer,2023-12-29,368
+1061,Rebecca Sanchez,Home Office,2023-12-29,368
+1162,Charles Hernandez,Consumer,2023-12-31,366
+489,Anthony Jones,Home Office,2024-01-01,365
+617,Barbara King,Corporate,2024-01-04,362
+77,Susan Miller,Consumer,2024-01-09,357
+1058,Christopher Lee,Consumer,2024-01-10,356
+609,Jessica Lopez,Corporate,2024-01-13,353
+1183,Robert Gonzalez,Consumer,2024-01-14,352
+1410,Kevin Walker,Small Business,2024-01-16,350
+1055,Daniel White,Corporate,2024-01-17,349
+550,Linda White,Consumer,2024-01-18,348
+856,Sandra Allen,Corporate,2024-01-18,348
+1019,Elizabeth Martin,Corporate,2024-01-24,342
+1283,Stephanie Walker,Consumer,2024-01-24,342
+1757,Stephanie Smith,Home Office,2024-01-25,341
+1433,Brian King,Consumer,2024-01-26,340
+1260,Barbara Davis,Corporate,2024-01-29,337
+1408,Michael Moore,Consumer,2024-01-29,337
+491,Anthony Sanchez,Home Office,2024-02-02,333
+576,Sarah Garcia,Home Office,2024-02-02,333
+1566,Nicole Garcia,Small Business,2024-02-02,333
+948,Matthew Allen,Small Business,2024-02-03,332
+869,Michael Garcia,Home Office,2024-02-06,329
+1120,Susan Lopez,Consumer,2024-02-08,327
+1025,David Martinez,Corporate,2024-02-11,324
+778,Brittany Garcia,Consumer,2024-02-12,323
+1106,Stephanie Martin,Home Office,2024-02-12,323
+1174,Robert Smith,Consumer,2024-02-12,323
+753,Anthony Gonzalez,Small Business,2024-02-15,320
+1258,Rebecca Smith,Consumer,2024-02-19,316
+1414,Christopher Martin,Consumer,2024-02-20,315
+1059,Robert Sanchez,Home Office,2024-02-21,314
+255,Matthew Robinson,Home Office,2024-02-22,313
+1187,Mary Robinson,Consumer,2024-02-23,312
+162,Andrew Brown,Home Office,2024-02-24,311
+776,Karen Jones,Consumer,2024-02-24,311
+1736,Robert Garcia,Corporate,2024-02-26,309
+1470,Sharon Rodriguez,Corporate,2024-02-27,308
+891,Kimberly Allen,Consumer,2024-02-28,307
+1329,Joshua Wilson,Consumer,2024-02-28,307
+1628,Tiffany Martinez,Consumer,2024-02-28,307
+14,Amanda Thomas,Consumer,2024-03-03,303
+835,David Anderson,Small Business,2024-03-06,300
+730,Amanda Ramirez,Corporate,2024-03-07,299
+1158,Sarah Williams,Small Business,2024-03-07,299
+1270,Andrew Young,Corporate,2024-03-10,296
+400,Joshua Robinson,Consumer,2024-03-11,295
+484,David Smith,Home Office,2024-03-11,295
+138,Justin Ramirez,Home Office,2024-03-12,294
+475,William Martinez,Consumer,2024-03-12,294
+1037,Justin Miller,Small Business,2024-03-12,294
+377,Jessica Jones,Corporate,2024-03-13,293
+1457,Matthew Harris,Corporate,2024-03-14,292
+1532,Anthony Walker,Consumer,2024-03-14,292
+57,Andrew Thomas,Small Business,2024-03-15,291
+1405,Sarah Harris,Small Business,2024-03-17,289
+264,Melissa Moore,Small Business,2024-03-18,288
+360,Michelle Johnson,Consumer,2024-03-18,288
+426,Joshua Thompson,Consumer,2024-03-20,286
+1673,William Miller,Home Office,2024-03-20,286
+48,Kevin Ramirez,Consumer,2024-03-22,284
+1407,Matthew Johnson,Consumer,2024-03-23,283
+1772,Mary White,Consumer,2024-03-23,283
+568,Ashley Lee,Consumer,2024-03-26,280
+789,Daniel Gonzalez,Consumer,2024-03-26,280
+1722,Robert Lopez,Consumer,2024-03-26,280
+1675,Matthew Garcia,Home Office,2024-03-27,279
+1016,Joshua Thompson,Home Office,2024-03-28,278
+371,Jeffrey Lewis,Consumer,2024-04-01,274
+169,Michael Garcia,Consumer,2024-04-02,273
+261,William Perez,Consumer,2024-04-03,272
+634,Rebecca Clark,Consumer,2024-04-03,272
+691,Jason Wilson,Corporate,2024-04-03,272
+699,Tiffany Garcia,Consumer,2024-04-03,272
+736,Barbara Martinez,Consumer,2024-04-03,272
+1196,David Anderson,Consumer,2024-04-03,272
+742,Joshua Thomas,Consumer,2024-04-06,269
+797,Michelle Smith,Consumer,2024-04-07,268
+1256,Elizabeth White,Consumer,2024-04-08,267
+1022,Laura Taylor,Small Business,2024-04-09,266
+463,William Sanchez,Corporate,2024-04-11,264
+1241,Elizabeth Davis,Consumer,2024-04-11,264
+398,Thomas Sanchez,Consumer,2024-04-12,263
+519,Amy King,Home Office,2024-04-12,263
+1606,Emily Allen,Home Office,2024-04-14,261
+100,Jennifer Martin,Consumer,2024-04-15,260
+790,Michael Perez,Consumer,2024-04-16,259
+942,Kimberly Davis,Consumer,2024-04-16,259
+160,Stephanie Brown,Consumer,2024-04-18,257
+439,Tiffany Rodriguez,Consumer,2024-04-18,257
+330,Jessica Lee,Home Office,2024-04-19,256
+548,William Hernandez,Consumer,2024-04-20,255
+1680,Sandra Taylor,Consumer,2024-04-21,254
+626,Michael Walker,Consumer,2024-04-22,253
+453,Michelle Anderson,Home Office,2024-04-23,252
+798,Tiffany White,Home Office,2024-04-23,252
+1077,Angela Martin,Home Office,2024-04-23,252
+1386,Matthew Perez,Consumer,2024-04-23,252
+46,Justin Anderson,Home Office,2024-04-24,251
+744,Emily Thompson,Home Office,2024-04-24,251
+405,Amy Perez,Home Office,2024-04-25,250
+1035,Justin King,Home Office,2024-04-25,250
+814,Thomas Anderson,Consumer,2024-04-28,247
+995,James Gonzalez,Consumer,2024-04-29,246
+984,Thomas Jackson,Consumer,2024-05-01,244
+58,Ashley Lewis,Consumer,2024-05-02,243
+650,Kimberly Walker,Consumer,2024-05-02,243
+1629,Christopher Hernandez,Consumer,2024-05-03,242
+851,Stephanie Lewis,Consumer,2024-05-04,241
+174,Emily Jackson,Consumer,2024-05-05,240
+157,Andrew Jones,Consumer,2024-05-06,239
+472,Elizabeth Perez,Small Business,2024-05-06,239
+209,John Allen,Corporate,2024-05-07,238
+913,Angela King,Consumer,2024-05-07,238
+1330,Brittany Brown,Consumer,2024-05-07,238
+1714,Brandon Garcia,Corporate,2024-05-07,238
+357,Nicole Allen,Corporate,2024-05-08,237
+718,Robert Hernandez,Corporate,2024-05-08,237
+280,Kevin White,Corporate,2024-05-09,236
+1758,Joshua Young,Consumer,2024-05-09,236
+684,Jennifer Harris,Consumer,2024-05-10,235
+830,Sarah Davis,Consumer,2024-05-11,234
+906,Michael Martinez,Consumer,2024-05-11,234
+923,Laura Martin,Corporate,2024-05-12,233
+177,Jessica Smith,Consumer,2024-05-13,232
+502,Michael Young,Consumer,2024-05-13,232
+562,Ashley Clark,Corporate,2024-05-13,232
+1396,Barbara Davis,Consumer,2024-05-14,231
+1607,Kimberly Rodriguez,Home Office,2024-05-15,230
+1630,Rebecca White,Consumer,2024-05-15,230
+1164,Amanda Gonzalez,Consumer,2024-05-16,229
+1728,Ashley Brown,Consumer,2024-05-16,229
+641,Nicole Anderson,Corporate,2024-05-17,228
+749,Emily King,Home Office,2024-05-17,228
+1080,Melissa Clark,Small Business,2024-05-18,227
+1089,Jeffrey Thomas,Corporate,2024-05-19,226
+1677,Michael Thompson,Consumer,2024-05-20,225
+1337,Emily Martin,Consumer,2024-05-21,224
+612,Brittany Gonzalez,Consumer,2024-05-22,223
+976,Karen Rodriguez,Corporate,2024-05-22,223
+524,Kimberly Rodriguez,Home Office,2024-05-23,222
+958,Michelle Harris,Small Business,2024-05-24,221
+62,Linda Miller,Consumer,2024-05-26,219
+223,Melissa Harris,Corporate,2024-05-26,219
+24,Matthew Moore,Small Business,2024-05-27,218
+25,Jason Jones,Corporate,2024-05-27,218
+846,Brian Smith,Corporate,2024-05-27,218
+1727,Amanda Anderson,Home Office,2024-05-28,217
+1220,John Rodriguez,Corporate,2024-05-31,214
+442,Amanda King,Consumer,2024-06-01,213
+981,Barbara Thomas,Consumer,2024-06-01,213
+1667,Michael Garcia,Corporate,2024-06-01,213
+372,Susan Jones,Consumer,2024-06-03,211
+881,Thomas Hernandez,Consumer,2024-06-03,211
+1465,Anthony Lopez,Home Office,2024-06-03,211
+1565,Brittany Clark,Corporate,2024-06-03,211
+1390,Susan Young,Consumer,2024-06-04,210
+874,Scott Taylor,Consumer,2024-06-07,207
+1671,Kimberly Williams,Consumer,2024-06-07,207
+126,Jason Lewis,Consumer,2024-06-08,206
+1101,Michelle Davis,Consumer,2024-06-08,206
+1702,Amy Robinson,Home Office,2024-06-08,206
+175,Stephanie Lewis,Consumer,2024-06-09,205
+894,Stephanie Garcia,Small Business,2024-06-09,205
+1431,James Wilson,Consumer,2024-06-09,205
+1579,Linda Young,Small Business,2024-06-09,205
+285,Emily Lewis,Consumer,2024-06-11,203
+1419,Michael White,Consumer,2024-06-12,202
+613,Sarah Young,Consumer,2024-06-13,201
+911,Thomas Rodriguez,Corporate,2024-06-14,200
+183,Daniel Moore,Small Business,2024-06-18,196
+692,Elizabeth Sanchez,Consumer,2024-06-18,196
+236,Justin Jones,Corporate,2024-06-19,195
+1041,Brittany Davis,Consumer,2024-06-21,193
+1006,Michael Anderson,Consumer,2024-06-22,192
+1413,Rebecca Allen,Consumer,2024-06-23,191
+1704,Emily Wilson,Home Office,2024-06-23,191
+561,Melissa Davis,Home Office,2024-06-25,189
+759,Ashley Taylor,Consumer,2024-06-25,189
+231,Anthony Sanchez,Corporate,2024-06-26,188
+1052,William Davis,Consumer,2024-06-26,188
+1580,Brandon Lee,Consumer,2024-06-26,188
+22,Angela Sanchez,Corporate,2024-06-27,187
+85,Michael Jones,Small Business,2024-06-27,187
+630,Andrew Davis,Small Business,2024-06-27,187
+1447,Brian Brown,Small Business,2024-06-27,187
+795,Robert Allen,Consumer,2024-06-28,186
+1236,Rebecca Hernandez,Corporate,2024-06-28,186
+1785,William Taylor,Consumer,2024-06-28,186
+1321,Jennifer Clark,Consumer,2024-06-29,185
+36,David Clark,Corporate,2024-07-01,183
+434,Brittany Lee,Consumer,2024-07-02,182
+809,Justin Thomas,Home Office,2024-07-02,182
+860,Brittany Lewis,Consumer,2024-07-02,182
+710,Susan Martin,Consumer,2024-07-03,181
+929,Michael Allen,Home Office,2024-07-03,181
+189,William Jones,Consumer,2024-07-04,180
+545,Jennifer Perez,Consumer,2024-07-05,179
+1649,Daniel Lopez,Consumer,2024-07-07,177
+552,Susan White,Consumer,2024-07-08,176
+1203,Robert Johnson,Home Office,2024-07-08,176
+640,Angela Davis,Consumer,2024-07-09,175
+1739,Mary Hernandez,Small Business,2024-07-10,174
+653,Andrew Anderson,Consumer,2024-07-11,173
+1038,Susan Gonzalez,Consumer,2024-07-11,173
+1232,Sandra Gonzalez,Small Business,2024-07-11,173
+1081,Michael Allen,Small Business,2024-07-12,172
+16,Robert King,Consumer,2024-07-14,170
+299,Joshua Jones,Home Office,2024-07-15,169
+838,Linda Brown,Corporate,2024-07-16,168
+1095,Sarah Taylor,Corporate,2024-07-18,166
+586,Nicole Gonzalez,Home Office,2024-07-19,165
+935,James Moore,Home Office,2024-07-25,159
+766,Angela Garcia,Corporate,2024-07-27,157
+1563,Emily Anderson,Small Business,2024-07-27,157
+1599,Laura Ramirez,Consumer,2024-07-27,157
+1222,Jeffrey Martin,Small Business,2024-07-31,153
+722,Jessica Moore,Home Office,2024-08-01,152
+899,Nicole Wilson,Corporate,2024-08-01,152
+1271,David Robinson,Small Business,2024-08-01,152
+571,Michael Allen,Corporate,2024-08-03,150
+683,Thomas Johnson,Consumer,2024-08-03,150
+882,Sharon Thomas,Small Business,2024-08-03,150
+916,Tiffany Thomas,Home Office,2024-08-03,150
+1243,Matthew Gonzalez,Consumer,2024-08-03,150
+63,William White,Consumer,2024-08-05,148
+1317,Christopher Martin,Corporate,2024-08-05,148
+604,Patricia Lee,Corporate,2024-08-06,147
+1074,Patricia Walker,Consumer,2024-08-07,146
+303,Michael Miller,Consumer,2024-08-08,145
+1049,Anthony Young,Home Office,2024-08-08,145
+1341,Christopher Brown,Small Business,2024-08-09,144
+1530,Linda Lewis,Corporate,2024-08-09,144
+217,James Martinez,Consumer,2024-08-11,142
+1126,Sarah Davis,Consumer,2024-08-11,142
+1154,Joshua King,Consumer,2024-08-11,142
+1296,Jennifer Brown,Small Business,2024-08-11,142
+45,David White,Home Office,2024-08-14,139
+959,Ashley Brown,Corporate,2024-08-14,139
+448,William Gonzalez,Consumer,2024-08-15,138
+1763,Sandra Martinez,Home Office,2024-08-16,137
+211,Karen Williams,Corporate,2024-08-17,136
+591,Charles Smith,Small Business,2024-08-17,136
+723,Daniel Clark,Corporate,2024-08-17,136
+1653,Anthony Smith,Consumer,2024-08-17,136
+815,William Anderson,Small Business,2024-08-18,135
+1195,Barbara Allen,Home Office,2024-08-18,135
+1597,Andrew Sanchez,Consumer,2024-08-18,135
+1647,Emily Gonzalez,Small Business,2024-08-18,135
+1789,Robert Robinson,Consumer,2024-08-18,135
+190,Brandon Walker,Corporate,2024-08-20,133
+1175,Stephanie Hernandez,Consumer,2024-08-20,133
+1658,Barbara Davis,Corporate,2024-08-20,133
+1734,Amanda Perez,Consumer,2024-08-20,133
+1456,Patricia Martin,Corporate,2024-08-21,132
+1498,Robert Allen,Consumer,2024-08-21,132
+1570,Charles Thompson,Home Office,2024-08-21,132
+329,Mary Lopez,Consumer,2024-08-22,131
+205,Elizabeth Young,Home Office,2024-08-23,130
+419,Ashley Walker,Home Office,2024-08-23,130
+1697,Patricia Lee,Consumer,2024-08-23,130
+96,Karen Lewis,Consumer,2024-08-24,129
+733,Sandra Garcia,Small Business,2024-08-24,129
+74,James Rodriguez,Consumer,2024-08-25,128
+610,Jessica Robinson,Consumer,2024-08-25,128
+964,Matthew Miller,Corporate,2024-08-25,128
+1357,Elizabeth Thomas,Consumer,2024-08-25,128
+1047,Anthony White,Home Office,2024-08-26,127
+1514,Sarah Thompson,Consumer,2024-08-26,127
+1685,Thomas King,Consumer,2024-08-26,127
+75,Kevin Taylor,Consumer,2024-08-28,125
+863,Stephanie Davis,Corporate,2024-08-28,125
+1046,Jennifer Moore,Corporate,2024-08-28,125
+1462,Melissa Rodriguez,Consumer,2024-08-28,125
+54,Jason King,Home Office,2024-08-29,124
+73,Charles Moore,Home Office,2024-08-29,124
+624,William Anderson,Consumer,2024-08-30,123
+740,Charles Johnson,Small Business,2024-08-30,123
+1742,Stephanie Lewis,Home Office,2024-08-30,123
+403,Amanda Clark,Consumer,2024-08-31,122
+887,Thomas Lee,Consumer,2024-08-31,122
+992,Andrew Hernandez,Consumer,2024-08-31,122
+1439,Jennifer Garcia,Corporate,2024-08-31,122
+192,Brian Williams,Small Business,2024-09-01,121
+603,Thomas Lewis,Consumer,2024-09-01,121
+615,William Garcia,Consumer,2024-09-01,121
+751,James Thompson,Corporate,2024-09-02,120
+1583,Brandon Lee,Corporate,2024-09-02,120
+577,Brian Miller,Corporate,2024-09-03,119
+779,Stephanie Robinson,Small Business,2024-09-03,119
+1043,Jessica Moore,Consumer,2024-09-04,118
+1586,Melissa Moore,Small Business,2024-09-04,118
+1768,Jason Young,Corporate,2024-09-04,118
+139,William Perez,Small Business,2024-09-05,117
+163,Andrew Sanchez,Consumer,2024-09-05,117
+800,James Brown,Small Business,2024-09-05,117
+871,Matthew Martinez,Corporate,2024-09-05,117
+348,Jason Thompson,Corporate,2024-09-06,116
+417,Stephanie Martin,Consumer,2024-09-06,116
+1026,William Moore,Consumer,2024-09-07,115
+1632,Andrew King,Home Office,2024-09-07,115
+588,David Sanchez,Consumer,2024-09-09,113
+176,Jason Harris,Corporate,2024-09-10,112
+316,Jennifer Robinson,Consumer,2024-09-10,112
+250,Andrew Rodriguez,Consumer,2024-09-11,111
+1643,Anthony Jones,Corporate,2024-09-11,111
+967,Sarah White,Consumer,2024-09-12,110
+1659,William Taylor,Home Office,2024-09-13,109
+639,Amanda Clark,Consumer,2024-09-14,108
+946,Robert Jackson,Corporate,2024-09-14,108
+268,Nicole Lewis,Corporate,2024-09-15,107
+470,John Taylor,Consumer,2024-09-15,107
+1398,William White,Consumer,2024-09-15,107
+506,Sarah Rodriguez,Consumer,2024-09-16,106
+1721,Emily Wilson,Consumer,2024-09-16,106
+1730,Brandon Harris,Consumer,2024-09-16,106
+81,Robert King,Home Office,2024-09-17,105
+836,Emily Martin,Small Business,2024-09-17,105
+1172,Kevin Walker,Small Business,2024-09-17,105
+505,Jessica Jones,Consumer,2024-09-18,104
+1729,Sarah Clark,Corporate,2024-09-18,104
+580,John Ramirez,Consumer,2024-09-19,103
+595,Sandra Brown,Home Office,2024-09-19,103
+1146,Karen Young,Corporate,2024-09-19,103
+293,Scott Lopez,Small Business,2024-09-20,102
+542,Kevin Sanchez,Small Business,2024-09-20,102
+695,William Williams,Consumer,2024-09-20,102
+1181,Tiffany Young,Consumer,2024-09-20,102
+1403,Jennifer Rodriguez,Consumer,2024-09-20,102
+1538,Jason Lopez,Consumer,2024-09-20,102
+1574,Jason Clark,Corporate,2024-09-21,101
+1717,Sarah Thomas,Corporate,2024-09-22,100
+60,Jeffrey Moore,Consumer,2024-09-24,98
+344,Sharon Young,Small Business,2024-09-24,98
+501,Matthew Miller,Small Business,2024-09-24,98
+140,Ashley Moore,Corporate,2024-09-25,97
+197,Robert Lopez,Consumer,2024-09-25,97
+346,John Moore,Home Office,2024-09-25,97
+525,Jeffrey Jackson,Home Office,2024-09-25,97
+852,Robert Allen,Small Business,2024-09-25,97
+33,Brandon Jones,Consumer,2024-09-26,96
+165,Patricia Gonzalez,Corporate,2024-09-26,96
+680,Amy Gonzalez,Consumer,2024-09-27,95
+425,Stephanie Gonzalez,Consumer,2024-09-28,94
+621,David Taylor,Consumer,2024-09-28,94
+20,Thomas White,Corporate,2024-09-29,93
+390,Emily Thomas,Small Business,2024-09-30,92
+462,Daniel Lewis,Small Business,2024-09-30,92
+587,Melissa Robinson,Consumer,2024-09-30,92
+721,Amy Williams,Home Office,2024-09-30,92
+825,Jessica Garcia,Consumer,2024-09-30,92
+1004,William Thomas,Consumer,2024-09-30,92
+1133,Sharon Garcia,Consumer,2024-09-30,92
+1489,Tiffany Martin,Consumer,2024-09-30,92
+1748,Robert Rodriguez,Corporate,2024-09-30,92
+817,William Johnson,Home Office,2024-10-01,91
+1067,Rebecca Williams,Consumer,2024-10-01,91

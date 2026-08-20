@@ -1,0 +1,1112 @@
+customer_id,customer_name,customer_segment,order_count,total_spend
+173,Linda Garcia,Corporate,310,857086.79
+897,Patricia Williams,Corporate,234,564381.96
+1375,Andrew Williams,Corporate,218,561241.86
+1173,Melissa Walker,Small Business,203,498076.77
+1788,Charles Allen,Corporate,201,504386.68
+433,Linda Robinson,Corporate,192,520514.97
+119,Matthew Thompson,Corporate,176,423118.8
+1349,Barbara Sanchez,Corporate,174,472961.5
+1553,Rebecca Hernandez,Small Business,167,386160.45
+1363,Brittany Harris,Corporate,145,340052.42
+1180,William Williams,Corporate,143,390482.54
+873,Barbara Sanchez,Small Business,142,292157.0
+59,Justin Jones,Corporate,141,412021.15
+1226,Charles Brown,Small Business,134,302953.65
+116,Melissa Garcia,Corporate,133,331712.41
+996,Brittany Anderson,Small Business,130,277443.17
+131,William Harris,Corporate,129,297538.79
+616,Thomas Robinson,Corporate,127,308392.02
+1735,Jessica Harris,Corporate,123,271066.99
+1354,Susan Jones,Corporate,123,302460.26
+1611,Stephanie Perez,Corporate,121,296471.48
+1780,Mary Wilson,Corporate,115,284195.86
+1725,James Jones,Corporate,112,283929.85
+1294,Karen Johnson,Small Business,112,249330.42
+438,William Miller,Corporate,111,257125.27
+216,William Lee,Corporate,107,262238.18
+374,Brittany Wilson,Corporate,105,238138.38
+1552,Amy White,Small Business,104,216479.67
+1472,Sarah Gonzalez,Corporate,104,273534.31
+257,Stephanie Moore,Small Business,102,226275.45
+109,Linda Sanchez,Corporate,102,239372.74
+253,Elizabeth Lewis,Corporate,101,253258.13
+161,Brandon Brown,Corporate,101,234772.39
+930,Andrew Davis,Home Office,100,161715.96
+106,Angela Perez,Small Business,99,248369.22
+792,Jeffrey Anderson,Small Business,98,228371.99
+497,Charles Gonzalez,Corporate,97,266428.6
+187,Karen Robinson,Corporate,96,240439.83
+1082,Stephanie Hernandez,Small Business,95,216451.01
+437,John Lee,Corporate,95,244658.68
+376,James Miller,Corporate,95,253337.86
+1368,Brian Martin,Corporate,92,213008.12
+1113,Patricia Allen,Small Business,91,208154.77
+1756,Christopher Moore,Corporate,90,211007.0
+1325,Joshua Wilson,Corporate,90,282317.76
+810,Jessica Young,Corporate,88,238397.78
+977,Karen Taylor,Corporate,87,238872.14
+538,Brian Martinez,Corporate,87,236562.16
+1468,Daniel Martin,Small Business,86,147916.36
+1751,Jeffrey Thomas,Corporate,85,207548.13
+769,Thomas Robinson,Corporate,85,217808.85
+594,Sandra Wilson,Home Office,85,162235.87
+972,Amanda Thompson,Small Business,84,210250.53
+172,Michelle Harris,Corporate,84,237746.78
+283,Rebecca Jackson,Corporate,83,253467.3
+1428,Ashley Martin,Home Office,82,140335.2
+1259,Robert Thomas,Small Business,82,212557.63
+918,James Thompson,Corporate,81,232612.66
+199,Melissa Ramirez,Corporate,81,193682.14
+492,Anthony Garcia,Small Business,79,170676.09
+849,Charles Sanchez,Corporate,78,179680.39
+345,Rebecca King,Corporate,78,212938.28
+510,Kimberly Robinson,Small Business,77,176701.06
+124,Brittany Jackson,Corporate,77,164210.39
+1364,Stephanie Robinson,Corporate,76,183997.77
+1219,Rebecca King,Corporate,76,203496.72
+719,Daniel Allen,Corporate,76,196465.25
+1471,Joshua Jackson,Consumer,75,98173.44
+1189,William Jones,Corporate,75,173169.14
+669,Sharon Walker,Small Business,75,165767.22
+593,John Robinson,Corporate,75,208320.07
+1382,Andrew Wilson,Corporate,74,177568.07
+1308,Jessica Garcia,Home Office,74,104680.42
+725,Linda Smith,Small Business,74,197504.55
+1567,Joshua Williams,Corporate,73,199946.51
+1481,James Brown,Corporate,73,173178.22
+585,William Smith,Corporate,73,206190.15
+193,Kevin Wilson,Corporate,73,167263.4
+1635,Thomas Martinez,Corporate,72,184305.27
+1505,Nicole Miller,Corporate,72,208699.62
+1415,Thomas Robinson,Corporate,72,150205.86
+1072,Sarah Perez,Consumer,72,104230.99
+801,John Harris,Small Business,72,165331.11
+271,David Thompson,Corporate,72,182467.94
+1695,Jennifer Jones,Corporate,71,162025.16
+134,Andrew Lee,Corporate,71,184003.65
+1588,Stephanie Jackson,Small Business,70,161248.95
+1523,Melissa Young,Corporate,69,182393.72
+1380,Jessica Harris,Corporate,69,173878.22
+6,Jason Young,Corporate,69,171539.26
+1543,Brandon Hernandez,Corporate,68,165706.9
+783,Elizabeth Gonzalez,Small Business,65,138981.38
+468,Tiffany Davis,Corporate,65,194649.01
+368,Andrew Miller,Corporate,65,162849.86
+1578,Laura Ramirez,Home Office,64,106317.54
+1284,Joshua Wilson,Corporate,64,184909.14
+1211,Jessica Jackson,Home Office,64,87194.1
+940,Nicole Williams,Consumer,64,71327.02
+622,Rebecca Clark,Consumer,64,67152.79
+416,Melissa Williams,Home Office,64,106311.9
+84,Matthew Brown,Corporate,64,142619.76
+1477,Patricia Wilson,Consumer,63,68256.92
+441,Amanda Davis,Small Business,63,145477.1
+32,Rebecca Young,Corporate,63,140434.76
+364,Amanda Anderson,Corporate,62,159449.94
+334,William Williams,Small Business,62,146467.0
+1335,Rebecca Lewis,Corporate,61,138265.75
+843,Tiffany Walker,Small Business,61,148908.87
+152,Jessica King,Small Business,61,137225.07
+1638,Tiffany Williams,Corporate,60,144436.24
+1062,Emily Moore,Corporate,60,158055.91
+493,Jennifer Garcia,Home Office,60,111746.56
+1522,Karen Johnson,Small Business,59,123529.52
+1420,Jennifer Lewis,Corporate,59,139687.33
+886,Jason Perez,Small Business,59,132908.61
+714,Ashley Jones,Corporate,59,162088.89
+608,Mary Thomas,Corporate,59,162927.44
+320,William Allen,Home Office,59,114970.49
+1770,Jessica Lee,Corporate,58,160540.41
+1376,James Thompson,Small Business,58,140363.02
+243,Brittany Jackson,Corporate,58,131225.78
+1197,Sandra Gonzalez,Small Business,57,164536.19
+551,Barbara Davis,Consumer,57,60166.12
+347,Melissa Moore,Corporate,57,140150.46
+133,David Moore,Small Business,57,123365.15
+574,Thomas Lopez,Corporate,56,177176.39
+391,Christopher Taylor,Corporate,56,152290.98
+69,Emily Davis,Small Business,56,156694.11
+1278,Susan Gonzalez,Small Business,55,115032.22
+1488,Patricia Rodriguez,Small Business,54,106875.55
+1001,Kevin Lopez,Small Business,54,125589.68
+498,Robert Jones,Corporate,54,139182.21
+1761,Andrew Brown,Small Business,53,110444.82
+1703,Jason Taylor,Corporate,53,95571.39
+1346,Emily White,Small Business,53,134588.5
+1268,Anthony Smith,Corporate,53,141473.35
+1141,Sandra Ramirez,Corporate,53,124457.21
+787,William Harris,Corporate,53,130858.69
+1104,Justin Gonzalez,Consumer,52,48355.07
+1088,Justin Lee,Corporate,52,121218.46
+399,Mary Wilson,Home Office,52,75236.4
+1776,Robert Brown,Small Business,51,87693.1
+1557,Brittany Jackson,Small Business,51,104826.71
+1500,Joshua Wilson,Home Office,51,67679.67
+1393,William Anderson,Corporate,51,123983.68
+1265,Emily Allen,Small Business,51,116835.68
+1194,Stephanie Young,Corporate,51,97859.14
+1064,Robert King,Corporate,51,146199.56
+1010,James Lewis,Home Office,51,74990.82
+1005,Sandra Martinez,Home Office,51,82501.36
+909,Amy Davis,Home Office,51,62310.93
+901,Mary Moore,Small Business,51,142621.42
+565,Karen Wilson,Corporate,51,127175.33
+553,Laura Rodriguez,Home Office,51,71785.79
+1199,James Jones,Small Business,50,93734.96
+238,Barbara Gonzalez,Corporate,50,138228.45
+180,Andrew Johnson,Small Business,50,96820.83
+1520,Nicole Miller,Corporate,49,115797.03
+1267,Emily Jackson,Corporate,49,121618.21
+1156,Kevin Perez,Corporate,49,134215.82
+791,Anthony Miller,Corporate,49,119929.07
+212,Emily Walker,Home Office,49,74942.84
+1402,Amanda Lewis,Small Business,48,112459.03
+1140,Amy Martin,Consumer,48,72731.37
+383,Linda Rodriguez,Corporate,48,153342.73
+335,Laura Rodriguez,Corporate,48,114919.38
+241,Tiffany Robinson,Corporate,48,130774.42
+234,Elizabeth Miller,Small Business,48,144182.17
+1663,Daniel Wilson,Corporate,47,113474.1
+1054,Joshua Allen,Home Office,47,99600.0
+664,Barbara Brown,Corporate,47,104432.12
+395,Joshua Jones,Home Office,47,62388.38
+95,Mary Miller,Home Office,47,81956.11
+7,Rebecca Martin,Corporate,47,115793.53
+1484,Susan Rodriguez,Consumer,46,52614.44
+1361,Michelle White,Corporate,46,135500.39
+1157,Stephanie Thompson,Corporate,46,109722.83
+949,Stephanie Lee,Corporate,46,146368.37
+473,Jeffrey Young,Corporate,46,132511.32
+1623,Sharon Johnson,Home Office,45,70622.1
+1533,Daniel Miller,Corporate,45,97459.44
+1097,Kimberly Davis,Corporate,45,96343.99
+878,Charles Miller,Corporate,45,116269.46
+771,Angela Smith,Corporate,45,107994.83
+431,Andrew Moore,Small Business,45,106697.57
+88,Anthony Taylor,Home Office,45,93912.56
+72,Barbara Walker,Home Office,45,55504.47
+853,Justin Harris,Corporate,44,120411.68
+768,Brittany Jones,Corporate,44,123413.03
+8,Christopher Rodriguez,Corporate,44,64348.16
+1620,Melissa Martin,Home Office,43,47817.23
+1517,Sharon Jones,Corporate,43,109647.64
+1274,Kimberly Perez,Home Office,43,69785.12
+1234,Jeffrey Garcia,Corporate,43,112881.88
+1228,Emily Miller,Consumer,43,76763.97
+1134,Christopher Clark,Corporate,43,98998.94
+777,Ashley Walker,Home Office,43,81513.17
+701,Justin Clark,Corporate,43,118878.0
+677,Daniel Taylor,Corporate,43,110134.13
+321,Thomas Sanchez,Home Office,43,95835.71
+94,Daniel Brown,Consumer,43,42526.38
+21,Thomas Taylor,Consumer,43,78296.99
+1700,Laura Robinson,Home Office,42,56603.85
+1600,Sharon Jones,Small Business,42,100319.93
+1595,William Miller,Corporate,42,92623.13
+1518,Amanda Gonzalez,Corporate,42,121282.01
+1497,James Allen,Corporate,42,169769.25
+1304,Emily Jackson,Corporate,42,119957.52
+1221,Patricia Jackson,Small Business,42,86506.49
+1063,Thomas Rodriguez,Home Office,42,53870.24
+1024,Daniel Anderson,Corporate,42,108394.55
+729,Jason Martinez,Home Office,42,61966.05
+671,Robert Gonzalez,Corporate,42,80886.76
+597,Kimberly Garcia,Corporate,42,120021.93
+464,William Young,Small Business,42,113845.27
+384,Jeffrey Moore,Corporate,42,79383.35
+224,Ashley Sanchez,Consumer,42,66636.97
+115,Emily Ramirez,Corporate,42,116650.87
+1688,Michael Wilson,Corporate,41,91402.23
+1686,Rebecca Allen,Corporate,41,111347.22
+1633,Jessica Davis,Corporate,41,96930.26
+1383,Charles Williams,Corporate,41,120324.96
+1367,James White,Corporate,41,106353.56
+1073,Patricia Martinez,Home Office,41,57761.3
+1036,Brittany Lee,Corporate,41,94652.45
+921,Rebecca Thomas,Small Business,41,80328.37
+762,Jason Jones,Home Office,41,41255.89
+488,Laura Martin,Corporate,41,106936.59
+325,Christopher Taylor,Corporate,41,85577.84
+307,Joshua Miller,Small Business,41,85418.35
+245,Jessica Moore,Home Office,41,62040.06
+146,William Martin,Consumer,41,64119.08
+123,Tiffany Hernandez,Home Office,41,63731.28
+1676,Sandra Harris,Small Business,40,93833.63
+1155,David Jackson,Small Business,40,68145.89
+933,Laura White,Consumer,40,60441.3
+842,Sharon Brown,Small Business,40,77975.98
+467,Angela Jackson,Consumer,40,51521.74
+445,Stephanie Lee,Corporate,40,111531.62
+429,Robert Davis,Corporate,40,105960.31
+390,Emily Thomas,Small Business,40,93830.16
+117,Barbara Clark,Consumer,40,52078.74
+1718,Patricia Moore,Corporate,39,83485.85
+1581,Barbara Young,Home Office,39,60383.17
+578,Tiffany Williams,Consumer,39,55430.77
+28,Linda Thompson,Corporate,39,97758.18
+1450,Kevin Thomas,Small Business,38,90162.89
+1008,Nicole Johnson,Home Office,38,35703.25
+956,Sharon Harris,Consumer,38,41310.12
+922,Brian Martin,Corporate,38,112846.45
+781,William Johnson,Consumer,38,42087.94
+661,Rebecca Lee,Home Office,38,59451.03
+313,Michael Garcia,Home Office,38,68220.23
+270,Nicole Jackson,Home Office,38,52838.34
+251,Michael Thompson,Consumer,38,47885.32
+1449,Michael Robinson,Corporate,37,93725.94
+1179,Justin Lee,Home Office,37,72026.17
+1124,Jeffrey White,Consumer,37,35776.55
+960,John Anderson,Corporate,37,79917.0
+64,Joshua Thompson,Corporate,37,94023.43
+1645,Justin Lopez,Small Business,36,73414.1
+1551,Jessica Harris,Consumer,36,45559.92
+1384,Kevin Gonzalez,Small Business,36,92700.99
+1285,Mary King,Small Business,36,86167.24
+1136,Thomas Harris,Small Business,36,73819.47
+973,Sarah Gonzalez,Home Office,36,47135.57
+919,Matthew Rodriguez,Home Office,36,45175.43
+907,Brittany Thompson,Corporate,36,76462.95
+662,Jessica King,Consumer,36,60587.9
+582,Rebecca Williams,Small Business,36,94514.21
+487,Jessica Smith,Corporate,36,70657.12
+356,Michelle Taylor,Consumer,36,35161.08
+221,Brittany Davis,Small Business,36,76193.92
+182,Sandra Martinez,Home Office,36,69107.35
+1786,Jennifer Lewis,Consumer,35,32475.5
+1679,Joshua Sanchez,Consumer,35,51514.44
+1589,Christopher Gonzalez,Small Business,35,76481.19
+1423,Christopher Harris,Corporate,35,96276.19
+1209,Emily Young,Corporate,35,95340.89
+1047,Anthony White,Home Office,35,42321.3
+408,Michael Clark,Small Business,35,78470.49
+387,Kevin Lopez,Corporate,35,82672.64
+92,Sarah King,Consumer,35,46873.08
+66,Robert Taylor,Small Business,35,81211.74
+1662,Daniel Garcia,Corporate,34,81957.63
+1508,Brandon Anderson,Consumer,34,40990.01
+1233,Kevin Robinson,Corporate,34,81382.89
+1079,Sharon Smith,Consumer,34,30379.13
+1033,Andrew Garcia,Consumer,34,22726.32
+1009,Karen White,Consumer,34,38954.52
+466,Linda Hernandez,Small Business,34,109813.47
+414,John Smith,Small Business,34,55018.15
+385,David White,Corporate,34,81682.09
+293,Scott Lopez,Small Business,34,81459.12
+289,William Moore,Small Business,34,72161.76
+207,Karen Smith,Small Business,34,66006.75
+204,Jennifer Lewis,Consumer,34,47617.26
+42,Sharon Ramirez,Consumer,34,60955.7
+1416,Matthew Jones,Consumer,33,30749.71
+926,Michael Garcia,Corporate,33,70753.11
+877,Stephanie Robinson,Home Office,33,52481.93
+847,Amanda Lee,Corporate,33,60099.93
+737,Justin Wilson,Small Business,33,72989.6
+614,Brandon Garcia,Consumer,33,56168.67
+485,Michael Thompson,Corporate,33,99685.22
+230,Sharon Garcia,Home Office,33,60948.12
+135,Joshua Taylor,Corporate,33,97072.88
+121,Emily Martin,Corporate,33,85953.54
+111,John Martinez,Small Business,33,63993.19
+39,David Perez,Small Business,33,76453.73
+1793,Mary Taylor,Corporate,32,92232.5
+1754,Sarah Ramirez,Small Business,32,72442.89
+1753,Christopher Thompson,Small Business,32,37370.55
+1593,Michael Sanchez,Small Business,32,69270.52
+1576,David Lewis,Corporate,32,64441.63
+1486,Scott Perez,Home Office,32,66063.97
+1336,Rebecca Jones,Corporate,32,81809.14
+1328,Tiffany Lopez,Consumer,32,34178.26
+1299,Kimberly White,Small Business,32,85158.31
+1160,Sandra Miller,Consumer,32,43142.52
+865,Andrew Lewis,Corporate,32,121745.37
+829,Thomas Miller,Home Office,32,53074.26
+786,Joshua Taylor,Consumer,32,27945.1
+407,Nicole Jackson,Home Office,32,44297.58
+295,Matthew White,Home Office,32,59148.18
+129,Rebecca Thompson,Home Office,32,44176.36
+99,Stephanie Garcia,Corporate,32,85003.08
+78,William Brown,Small Business,32,78774.79
+29,Michael Martinez,Corporate,32,91949.93
+1705,Robert Robinson,Corporate,31,88730.57
+1555,Michael Brown,Consumer,31,33888.78
+1397,Mary Perez,Home Office,31,62571.36
+1389,Melissa King,Small Business,31,69482.0
+1030,Anthony Smith,Home Office,31,67125.59
+689,Brian Brown,Consumer,31,44921.8
+670,Sarah Lee,Corporate,31,84274.63
+663,Kevin Miller,Small Business,31,50763.67
+581,Nicole Moore,Consumer,31,39249.68
+509,Jennifer Rodriguez,Corporate,31,52387.45
+490,Barbara King,Small Business,31,59482.01
+354,Kevin Allen,Corporate,31,79524.89
+333,Robert Jackson,Home Office,31,56073.99
+1720,Amy Davis,Corporate,30,67160.01
+1636,Susan Williams,Corporate,30,81891.07
+1572,Laura Thomas,Consumer,30,33144.23
+1352,Ashley Davis,Home Office,30,72527.68
+1125,David Walker,Corporate,30,84442.3
+979,Sandra Anderson,Corporate,30,60716.87
+932,Patricia Williams,Consumer,30,37517.27
+889,Andrew Garcia,Corporate,30,81308.07
+752,Jessica Lewis,Consumer,30,36890.13
+638,Christopher Martin,Consumer,30,29156.88
+589,Scott Rodriguez,Consumer,30,38887.68
+265,Rebecca Brown,Corporate,30,88344.67
+140,Ashley Moore,Corporate,30,87592.33
+9,Melissa Thomas,Corporate,30,68237.87
+1701,Brittany Davis,Consumer,29,43965.17
+1519,Jessica Hernandez,Small Business,29,70720.35
+1437,Joshua Robinson,Consumer,29,42530.38
+1370,Daniel Lewis,Corporate,29,82054.36
+1362,Kevin Lee,Corporate,29,93468.67
+1322,Robert Martinez,Consumer,29,34041.86
+1163,Nicole Hernandez,Consumer,29,36884.79
+892,Mary Davis,Corporate,29,65334.63
+734,Kimberly Robinson,Consumer,29,38437.21
+726,Sharon Thomas,Corporate,29,62100.22
+676,Christopher Williams,Home Office,29,40449.17
+496,Melissa Walker,Home Office,29,52835.42
+301,Melissa Perez,Small Business,29,66205.97
+284,Mary Robinson,Home Office,29,45230.27
+247,William Anderson,Corporate,29,63874.06
+195,Brittany Harris,Corporate,29,85403.7
+27,Susan Garcia,Consumer,29,34344.95
+1797,Robert Gonzalez,Small Business,28,66863.34
+1740,Christopher Young,Corporate,28,73592.52
+1542,Rebecca Taylor,Small Business,28,80180.8
+1442,Melissa King,Consumer,28,20488.8
+1276,Patricia Gonzalez,Small Business,28,62477.1
+1230,Justin Thompson,Corporate,28,51666.61
+1223,Angela Clark,Small Business,28,54729.71
+1184,Susan Jones,Consumer,28,42559.45
+802,Brandon Rodriguez,Small Business,28,50364.15
+794,Rebecca Williams,Corporate,28,47263.32
+627,Michael Johnson,Corporate,28,67120.11
+167,John Williams,Small Business,28,67514.06
+166,Joshua Martin,Small Business,28,48494.48
+1731,Patricia Hernandez,Small Business,27,62906.08
+1729,Sarah Clark,Corporate,27,81715.44
+1501,David Lewis,Consumer,27,40931.42
+1411,Tiffany Walker,Home Office,27,61908.62
+1250,Elizabeth Sanchez,Corporate,27,74738.28
+1206,John Thompson,Home Office,27,67572.76
+1171,Anthony Jackson,Corporate,27,59440.51
+1147,Susan Anderson,Small Business,27,78381.09
+1014,Brian Gonzalez,Corporate,27,52256.57
+938,Michael Martin,Home Office,27,50358.45
+804,Melissa Garcia,Consumer,27,24868.83
+706,Tiffany Thomas,Corporate,27,55532.39
+694,Kevin Williams,Home Office,27,54266.2
+427,Karen Johnson,Home Office,27,42222.08
+418,Jason Davis,Home Office,27,25669.71
+281,James Martinez,Home Office,27,42766.98
+277,Charles Williams,Small Business,27,79152.36
+275,Barbara Gonzalez,Small Business,27,66948.26
+215,Andrew King,Corporate,27,65022.48
+194,Amy Jackson,Consumer,27,27208.96
+103,Emily Walker,Home Office,27,43244.65
+35,William Martinez,Corporate,27,59192.68
+1710,Jessica Lee,Corporate,26,68114.99
+1372,Mary Sanchez,Corporate,26,70327.6
+1246,Brittany Young,Home Office,26,30925.33
+1238,David Ramirez,Home Office,26,37602.68
+1075,Melissa Martin,Small Business,26,70512.27
+1040,Robert Lopez,Consumer,26,34105.97
+1013,Jason Wilson,Corporate,26,65024.48
+985,William Johnson,Home Office,26,46271.66
+908,Ashley Harris,Small Business,26,48998.03
+900,Kimberly Young,Corporate,26,68353.89
+760,Matthew Clark,Small Business,26,49801.62
+747,Mary Martinez,Corporate,26,55661.31
+666,Karen Ramirez,Home Office,26,63791.66
+654,David Miller,Consumer,26,35873.52
+516,Scott Robinson,Corporate,26,74684.49
+446,Anthony Garcia,Corporate,26,67970.4
+163,Andrew Sanchez,Consumer,26,24279.26
+2,Susan Young,Consumer,26,30541.27
+1799,Jeffrey Thomas,Consumer,25,20049.49
+1779,Barbara Davis,Home Office,25,28760.07
+1463,Michael Johnson,Consumer,25,25795.03
+1460,Charles Lee,Corporate,25,48408.31
+1218,Stephanie Walker,Home Office,25,35578.79
+1152,Amanda Jones,Corporate,25,46615.54
+854,Stephanie King,Small Business,25,52388.93
+834,Susan Davis,Home Office,25,41630.17
+549,Angela Johnson,Small Business,25,47546.93
+296,Sarah Davis,Consumer,25,38503.77
+229,Joshua Young,Small Business,25,62670.75
+102,Andrew Davis,Home Office,25,44709.19
+1766,Matthew Young,Corporate,24,59295.8
+1752,James Hernandez,Corporate,24,54572.78
+1602,Nicole Robinson,Consumer,24,28389.24
+1490,Stephanie Hernandez,Home Office,24,34465.38
+1467,Brandon Brown,Small Business,24,47021.38
+1316,Laura Hernandez,Home Office,24,23464.5
+1306,Amanda Thomas,Small Business,24,59362.32
+1212,Karen Allen,Consumer,24,29378.42
+1192,Robert King,Home Office,24,43319.77
+1119,Patricia Lopez,Corporate,24,56655.52
+980,Kevin Anderson,Consumer,24,37194.84
+946,Robert Jackson,Corporate,24,69650.32
+943,Tiffany Jones,Home Office,24,39464.94
+681,Susan Sanchez,Consumer,24,28199.16
+571,Michael Allen,Corporate,24,63143.51
+556,Robert Thomas,Consumer,24,21444.96
+511,Susan Anderson,Corporate,24,53086.43
+480,Amanda Thompson,Consumer,24,24849.86
+458,Andrew Perez,Consumer,24,33883.47
+412,Elizabeth Harris,Consumer,24,31781.88
+393,Amanda Martinez,Home Office,24,33573.1
+158,Charles Williams,Consumer,24,29707.45
+1796,Stephanie Harris,Home Office,23,24839.92
+1769,John Miller,Corporate,23,62950.82
+1711,Brittany Clark,Corporate,23,59102.91
+1699,Daniel Lee,Corporate,23,90896.14
+1669,Tiffany Thompson,Home Office,23,38793.39
+1562,Daniel Sanchez,Home Office,23,51458.2
+1549,Rebecca Garcia,Corporate,23,46084.39
+1480,Thomas Ramirez,Small Business,23,34026.68
+1288,Michelle Clark,Corporate,23,48820.21
+984,Thomas Jackson,Consumer,23,23915.38
+866,James Rodriguez,Corporate,23,70107.01
+844,Sandra White,Home Office,23,35278.12
+667,Nicole Hernandez,Small Business,23,54241.86
+645,William Anderson,Small Business,23,52681.14
+611,Kevin Thompson,Small Business,23,50638.48
+572,Thomas Ramirez,Corporate,23,50296.94
+517,Amy Martin,Home Office,23,22938.61
+318,Michael Thompson,Small Business,23,68043.13
+297,Robert Robinson,Small Business,23,51144.23
+185,Emily Taylor,Home Office,23,31774.76
+178,Jessica Lopez,Home Office,23,33301.07
+144,William Johnson,Home Office,23,26673.68
+1759,Laura Thomas,Corporate,22,52156.79
+1743,Linda Martinez,Small Business,22,41534.75
+1642,Amanda Clark,Consumer,22,29034.58
+1569,Michelle Thompson,Home Office,22,36601.09
+1537,Brandon King,Home Office,22,46729.64
+1369,Susan Clark,Consumer,22,25581.36
+1356,William Jackson,Home Office,22,31509.76
+1204,Elizabeth Martin,Corporate,22,68071.28
+1115,Anthony Sanchez,Corporate,22,77605.8
+1092,William Rodriguez,Consumer,22,23042.8
+799,Patricia Hernandez,Small Business,22,38674.18
+530,Mary Wilson,Consumer,22,27135.69
+327,Andrew Gonzalez,Corporate,22,64459.6
+317,Michelle Hernandez,Home Office,22,20207.74
+242,Scott Thomas,Corporate,22,66065.53
+90,William Gonzalez,Corporate,22,51022.48
+65,Justin Jackson,Small Business,22,39239.52
+48,Kevin Ramirez,Consumer,22,38909.36
+1713,Joshua Rodriguez,Consumer,21,22677.56
+1660,Melissa Jackson,Corporate,21,44727.24
+1641,Daniel White,Home Office,21,30126.48
+1640,Michael Clark,Small Business,21,45750.79
+1601,Sandra Hernandez,Small Business,21,53934.7
+1546,Jennifer Thomas,Consumer,21,22255.59
+1514,Sarah Thompson,Consumer,21,19710.28
+1475,Charles Jackson,Corporate,21,56360.12
+1466,Stephanie Rodriguez,Small Business,21,55576.33
+1412,Kimberly Clark,Home Office,21,38310.75
+1319,William Moore,Corporate,21,51030.64
+1195,Barbara Allen,Home Office,21,17904.81
+1161,Jason Thompson,Corporate,21,58849.4
+1094,Jason King,Corporate,21,40409.39
+1068,Amy Taylor,Home Office,21,22921.82
+1029,Michael Johnson,Home Office,21,42425.41
+957,Mary Davis,Corporate,21,63021.49
+816,Amanda Gonzalez,Corporate,21,50602.22
+690,Amanda Moore,Small Business,21,33333.77
+471,Patricia Johnson,Consumer,21,29234.81
+370,Michael White,Corporate,21,38469.46
+344,Sharon Young,Small Business,21,64643.25
+331,James Miller,Consumer,21,22596.08
+280,Kevin White,Corporate,21,59770.95
+258,Daniel Brown,Home Office,21,33430.63
+205,Elizabeth Young,Home Office,21,45347.9
+148,Rebecca Moore,Consumer,21,20206.82
+101,Melissa Thomas,Home Office,21,34737.45
+4,Jeffrey Ramirez,Home Office,21,48957.64
+1798,Thomas Lopez,Consumer,20,19220.44
+1689,William Sanchez,Corporate,20,66424.32
+1612,Matthew Robinson,Corporate,20,60232.58
+1534,Barbara Thompson,Consumer,20,19744.7
+1436,William Martin,Consumer,20,24511.37
+1342,John White,Consumer,20,39875.43
+1249,Charles Allen,Consumer,20,21133.92
+1203,Robert Johnson,Home Office,20,30502.75
+1130,Amy Thomas,Consumer,20,39331.7
+1012,Sarah Thomas,Corporate,20,64225.36
+962,Patricia Smith,Small Business,20,45345.17
+884,Brian Robinson,Corporate,20,30304.98
+782,Tiffany Ramirez,Home Office,20,31337.33
+745,Michael Garcia,Small Business,20,41539.88
+696,Michelle Moore,Corporate,20,43502.82
+624,William Anderson,Consumer,20,31403.04
+503,William Harris,Home Office,20,49270.39
+501,Matthew Miller,Small Business,20,44424.18
+451,Thomas Taylor,Corporate,20,72821.16
+450,Stephanie Moore,Home Office,20,34170.56
+249,David Garcia,Consumer,20,33303.98
+233,Brittany Smith,Home Office,20,30009.15
+198,Michael Moore,Corporate,20,47137.08
+176,Jason Harris,Corporate,20,78046.47
+80,Melissa Harris,Consumer,20,41385.37
+1712,Brian Rodriguez,Home Office,19,31370.33
+1707,William White,Corporate,19,55151.42
+1696,John Clark,Corporate,19,37214.87
+1584,Laura Martin,Consumer,19,31971.2
+1527,Laura White,Home Office,19,23041.67
+1479,Barbara Young,Consumer,19,42106.34
+1459,James Gonzalez,Corporate,19,44664.09
+1295,Linda White,Consumer,19,31592.5
+1280,Michael Jones,Consumer,19,13100.78
+1242,Patricia Lee,Small Business,19,32699.11
+1229,John Lee,Home Office,19,35412.98
+1123,Michelle Garcia,Consumer,19,25119.95
+1096,Elizabeth Lee,Consumer,19,22210.91
+992,Andrew Hernandez,Consumer,19,12218.34
+953,John Ramirez,Small Business,19,40007.57
+817,William Johnson,Home Office,19,33711.41
+672,Sarah Clark,Small Business,19,36569.8
+657,Rebecca Walker,Corporate,19,65888.13
+655,Patricia Jackson,Consumer,19,39801.88
+617,Barbara King,Corporate,19,46427.62
+600,Susan Young,Home Office,19,21973.27
+584,Ashley Thomas,Home Office,19,22949.93
+561,Melissa Davis,Home Office,19,18259.04
+555,Brian Martin,Small Business,19,46951.74
+533,Matthew Jones,Small Business,19,35627.34
+512,Brittany Martin,Small Business,19,40163.7
+349,Justin Harris,Consumer,19,22403.07
+197,Robert Lopez,Consumer,19,24270.04
+156,Michael Young,Consumer,19,39558.79
+5,Kimberly Rodriguez,Home Office,19,50349.1
+1795,Jeffrey Davis,Consumer,18,24310.84
+1787,Stephanie Perez,Consumer,18,35086.92
+1782,Laura Harris,Consumer,18,22272.57
+1744,Mary Wilson,Consumer,18,17655.62
+1659,William Taylor,Home Office,18,18598.47
+1616,Sandra Thompson,Consumer,18,29931.51
+1575,Angela Ramirez,Corporate,18,37466.91
+1560,Andrew Sanchez,Home Office,18,16248.04
+1530,Linda Lewis,Corporate,18,37033.55
+1499,Susan Williams,Home Office,18,37394.79
+1338,Anthony Rodriguez,Home Office,18,28345.25
+1301,Amy White,Small Business,18,27426.46
+1298,Ashley Johnson,Home Office,18,18069.56
+1244,Michael Moore,Corporate,18,45314.57
+1139,Sarah Allen,Consumer,18,19870.02
+1111,Matthew Jackson,Corporate,18,35235.58
+1109,Jason Allen,Consumer,18,22407.71
+1100,Barbara Thompson,Corporate,18,36903.43
+905,Robert White,Home Office,18,25216.83
+748,Brittany Wilson,Home Office,18,39531.95
+740,Charles Johnson,Small Business,18,41289.17
+691,Jason Wilson,Corporate,18,31073.55
+648,Jeffrey Lewis,Home Office,18,21710.68
+537,Laura White,Consumer,18,14607.29
+481,John Sanchez,Corporate,18,54683.85
+273,Elizabeth Jones,Small Business,18,33142.51
+190,Brandon Walker,Corporate,18,29958.5
+112,Emily Allen,Consumer,18,18744.14
+52,Barbara Perez,Corporate,18,30570.34
+20,Thomas White,Corporate,18,38337.91
+1692,Justin Brown,Home Office,17,34725.54
+1648,Michelle Martinez,Consumer,17,15070.33
+1401,Jeffrey Lee,Home Office,17,18595.57
+1272,Mary Martinez,Small Business,17,29438.7
+1256,Elizabeth White,Consumer,17,23557.96
+1093,Justin Smith,Consumer,17,24023.05
+1044,Elizabeth Martin,Consumer,17,26790.47
+976,Karen Rodriguez,Corporate,17,46070.66
+910,Elizabeth Martinez,Small Business,17,30531.3
+832,Ashley Hernandez,Corporate,17,61121.96
+831,Jason Moore,Corporate,17,26481.15
+764,Emily King,Consumer,17,34644.74
+722,Jessica Moore,Home Office,17,35993.51
+514,Sarah Robinson,Home Office,17,21677.92
+472,Elizabeth Perez,Small Business,17,31695.9
+436,Susan Lewis,Home Office,17,33003.88
+421,David Perez,Corporate,17,44973.58
+336,Ashley Hernandez,Consumer,17,33420.78
+322,Michelle Robinson,Consumer,17,20627.31
+268,Nicole Lewis,Corporate,17,36393.84
+70,Brittany Young,Corporate,17,52570.09
+60,Jeffrey Moore,Consumer,17,27151.5
+1683,Charles Jackson,Consumer,16,18407.93
+1579,Linda Young,Small Business,16,32074.27
+1568,Joshua Thompson,Home Office,16,23626.33
+1535,Robert Garcia,Home Office,16,22280.87
+1443,Melissa Rodriguez,Home Office,16,24673.49
+1379,Kimberly Gonzalez,Home Office,16,19652.72
+1202,Daniel Taylor,Consumer,16,17692.34
+1188,Sharon Thomas,Consumer,16,15928.96
+1144,Barbara Sanchez,Home Office,16,20218.2
+1108,Matthew Gonzalez,Consumer,16,18463.86
+1015,Robert Wilson,Home Office,16,26805.11
+828,Patricia Garcia,Consumer,16,20777.63
+820,Melissa Lee,Corporate,16,45198.17
+757,Stephanie Ramirez,Consumer,16,20292.07
+718,Robert Hernandez,Corporate,16,39239.69
+704,Sarah Taylor,Small Business,16,31113.23
+603,Thomas Lewis,Consumer,16,13510.14
+454,Mary Anderson,Home Office,16,19120.92
+326,Emily King,Home Office,16,14917.37
+139,William Perez,Small Business,16,19221.64
+1794,Stephanie Jones,Corporate,15,30348.01
+1730,Brandon Harris,Consumer,15,23106.68
+1694,Karen Garcia,Consumer,15,30831.19
+1587,William Martin,Home Office,15,34856.02
+1559,Christopher Smith,Corporate,15,32056.19
+1427,Andrew Lee,Corporate,15,48428.3
+1391,Anthony Wilson,Corporate,15,37824.07
+1142,Kevin Harris,Consumer,15,13911.83
+1020,Joshua Clark,Consumer,15,19275.7
+999,Robert Ramirez,Corporate,15,32643.93
+917,Robert King,Corporate,15,27680.49
+841,John Young,Consumer,15,11863.59
+809,Justin Thomas,Home Office,15,34593.57
+765,Rebecca Robinson,Consumer,15,23135.46
+749,Emily King,Home Office,15,27720.16
+738,Charles White,Consumer,15,13210.53
+712,Jessica Perez,Home Office,15,37829.3
+483,Anthony Garcia,Consumer,15,27905.55
+453,Michelle Anderson,Home Office,15,36640.45
+276,Robert Rodriguez,Consumer,15,22697.47
+272,Ashley Brown,Consumer,15,10166.12
+143,Michael Wilson,Home Office,15,19807.94
+105,Elizabeth Walker,Consumer,15,16004.99
+31,James Garcia,Corporate,15,28752.95
+1789,Robert Robinson,Consumer,14,15602.28
+1738,Andrew Wilson,Consumer,14,18627.81
+1702,Amy Robinson,Home Office,14,22151.4
+1671,Kimberly Williams,Consumer,14,14945.49
+1634,Michael Martin,Home Office,14,20213.19
+1618,Patricia Garcia,Small Business,14,32403.42
+1582,Sarah Smith,Home Office,14,30903.86
+1580,Brandon Lee,Consumer,14,19276.73
+1573,Angela Smith,Consumer,14,18694.97
+1554,Kimberly Allen,Home Office,14,26707.51
+1524,Andrew White,Corporate,14,32532.18
+1489,Tiffany Martin,Consumer,14,9566.96
+1435,Angela White,Home Office,14,13254.58
+1399,Tiffany Rodriguez,Consumer,14,12378.4
+1366,Ashley Moore,Corporate,14,29900.74
+1303,Brian Clark,Home Office,14,26551.56
+1251,Jason Thompson,Consumer,14,16891.24
+1178,Charles Sanchez,Corporate,14,28994.2
+1151,William Taylor,Small Business,14,30166.45
+1099,Sharon Sanchez,Home Office,14,23162.57
+1056,Amanda Ramirez,Home Office,14,15694.22
+1048,Brandon Thompson,Consumer,14,17045.69
+1046,Jennifer Moore,Corporate,14,38503.51
+959,Ashley Brown,Corporate,14,29409.74
+904,Michael Garcia,Home Office,14,15735.95
+896,David Moore,Home Office,14,27015.28
+871,Matthew Martinez,Corporate,14,33298.46
+868,Sarah Gonzalez,Small Business,14,25859.21
+862,Kevin Harris,Consumer,14,37970.6
+825,Jessica Garcia,Consumer,14,11691.51
+806,William Lopez,Consumer,14,17802.68
+796,Michael Wilson,Consumer,14,33796.15
+774,William Anderson,Consumer,14,13540.66
+680,Amy Gonzalez,Consumer,14,8226.71
+479,Michelle Young,Corporate,14,19815.07
+420,Sharon Garcia,Consumer,14,27741.09
+358,Amy Miller,Corporate,14,21134.54
+175,Stephanie Lewis,Consumer,14,16863.32
+125,Elizabeth Miller,Home Office,14,18927.84
+110,William Taylor,Home Office,14,21495.89
+76,Nicole Miller,Home Office,14,18646.36
+1749,Rebecca Smith,Small Business,13,30025.35
+1726,Sandra Allen,Home Office,13,27413.15
+1717,Sarah Thomas,Corporate,13,28353.27
+1715,Brian Clark,Corporate,13,50881.88
+1684,Brittany Walker,Corporate,13,34379.4
+1615,William Johnson,Small Business,13,42200.05
+1531,Daniel Jones,Consumer,13,17003.05
+1502,Joshua Clark,Home Office,13,18804.79
+1461,Sarah Walker,Home Office,13,19080.17
+1452,Christopher White,Home Office,13,26052.0
+1447,Brian Brown,Small Business,13,29618.47
+1314,Kevin Gonzalez,Consumer,13,18452.95
+1271,David Robinson,Small Business,13,37308.59
+1240,Amanda Walker,Consumer,13,15509.78
+1182,Stephanie Brown,Consumer,13,24500.9
+1181,Tiffany Young,Consumer,13,16382.46
+1149,Amanda Lopez,Corporate,13,38925.35
+1148,Brian Williams,Consumer,13,14575.79
+1131,Stephanie Anderson,Consumer,13,22722.94
+1126,Sarah Davis,Consumer,13,22109.36
+1098,Joshua Garcia,Home Office,13,19134.73
+1086,Brandon Harris,Consumer,13,16373.47
+1031,Mary Sanchez,Home Office,13,20463.05
+1019,Elizabeth Martin,Corporate,13,37630.66
+970,Michael Williams,Small Business,13,28897.75
+951,James Allen,Corporate,13,29039.32
+850,Elizabeth Martinez,Consumer,13,13110.29
+803,Sarah Miller,Small Business,13,38914.83
+751,James Thompson,Corporate,13,21440.81
+673,Joshua Williams,Consumer,13,13237.1
+660,Angela Walker,Corporate,13,24175.08
+613,Sarah Young,Consumer,13,30397.73
+591,Charles Smith,Small Business,13,20513.97
+583,Andrew White,Corporate,13,38616.54
+554,Charles Miller,Home Office,13,23557.53
+520,Angela Brown,Consumer,13,25033.37
+478,Laura Thomas,Small Business,13,34077.63
+462,Daniel Lewis,Small Business,13,33657.81
+455,Daniel Young,Consumer,13,11774.14
+430,Amy Harris,Home Office,13,24626.87
+366,Thomas Harris,Corporate,13,18287.76
+319,Kevin Jones,Home Office,13,22022.54
+150,Daniel Smith,Consumer,13,18139.7
+122,Robert Gonzalez,Small Business,13,29076.52
+68,Nicole Jackson,Small Business,13,20806.04
+55,Tiffany Allen,Home Office,13,17946.26
+53,Susan Miller,Consumer,13,15631.27
+36,David Clark,Corporate,13,43895.97
+1791,Robert Brown,Consumer,12,18291.38
+1737,Anthony Young,Home Office,12,11623.77
+1727,Amanda Anderson,Home Office,12,23359.99
+1724,Anthony Lopez,Consumer,12,18146.53
+1693,John Williams,Home Office,12,21064.38
+1653,Anthony Smith,Consumer,12,10146.34
+1604,Angela White,Consumer,12,7144.51
+1598,Anthony Thompson,Home Office,12,17218.76
+1540,Patricia Perez,Consumer,12,18363.51
+1528,Mary Wilson,Home Office,12,8955.93
+1493,Sandra Thompson,Consumer,12,19676.13
+1432,Emily Young,Corporate,12,41011.92
+1419,Michael White,Consumer,12,17531.41
+1388,Anthony Wilson,Home Office,12,17193.26
+1357,Elizabeth Thomas,Consumer,12,7693.07
+1347,Karen Rodriguez,Consumer,12,11681.51
+1332,Patricia Clark,Consumer,12,12310.34
+1257,Robert Robinson,Consumer,12,9674.79
+1243,Matthew Gonzalez,Consumer,12,7971.12
+1172,Kevin Walker,Small Business,12,35127.05
+1116,Barbara Miller,Small Business,12,38379.54
+1114,Jennifer Ramirez,Corporate,12,43366.72
+1067,Rebecca Williams,Consumer,12,12733.45
+947,Matthew Anderson,Home Office,12,35824.1
+923,Laura Martin,Corporate,12,36833.57
+887,Thomas Lee,Consumer,12,7974.85
+838,Linda Brown,Corporate,12,32646.97
+813,Amy Lopez,Consumer,12,25728.78
+733,Sandra Garcia,Small Business,12,30623.44
+621,David Taylor,Consumer,12,23649.24
+615,William Garcia,Consumer,12,18600.04
+607,James King,Small Business,12,20801.6
+595,Sandra Brown,Home Office,12,23207.1
+564,Mary Allen,Small Business,12,33222.51
+515,Michelle Allen,Consumer,12,15434.51
+506,Sarah Rodriguez,Consumer,12,21732.64
+378,Justin Thomas,Home Office,12,11592.28
+259,Karen Taylor,Consumer,12,18759.59
+252,Tiffany Thompson,Home Office,12,16887.71
+225,William Gonzalez,Home Office,12,33468.52
+213,Joshua Hernandez,Home Office,12,14554.15
+209,John Allen,Corporate,12,18261.51
+177,Jessica Smith,Consumer,12,14803.08
+97,Jason Miller,Corporate,12,43103.04
+74,James Rodriguez,Consumer,12,8043.34
+49,Emily Williams,Small Business,12,19675.32
+1774,Stephanie Lopez,Consumer,11,8810.64
+1768,Jason Young,Corporate,11,22516.58
+1765,Michael Young,Consumer,11,9889.29
+1668,Brandon Lee,Consumer,11,24756.59
+1610,Michael Jones,Home Office,11,26839.6
+1516,Nicole Davis,Consumer,11,10334.36
+1495,James Brown,Consumer,11,6778.43
+1482,Barbara Moore,Home Office,11,16567.88
+1476,Daniel Perez,Consumer,11,12954.27
+1458,Nicole Harris,Corporate,11,36306.93
+1353,Elizabeth Lopez,Home Office,11,9213.25
+1187,Mary Robinson,Consumer,11,7145.15
+1129,Sharon Thomas,Consumer,11,8489.23
+1090,Patricia Smith,Home Office,11,26195.71
+993,Kevin Lewis,Home Office,11,17857.71
+975,Anthony Walker,Home Office,11,30435.46
+964,Matthew Miller,Corporate,11,29508.46
+945,Amanda Lee,Consumer,11,14647.46
+861,Mary White,Small Business,11,24275.43
+795,Robert Allen,Consumer,11,17917.76
+793,Michael Jones,Home Office,11,19612.57
+750,Daniel Sanchez,Home Office,11,16000.44
+702,Susan Lopez,Consumer,11,17856.48
+679,Thomas Young,Corporate,11,24997.7
+628,Jessica Harris,Consumer,11,13869.7
+567,Nicole Allen,Consumer,11,16322.36
+559,Rebecca Wilson,Corporate,11,17210.7
+474,William Walker,Consumer,11,14721.08
+61,Daniel Hernandez,Small Business,11,17924.21
+54,Jason King,Home Office,11,15699.7
+45,David White,Home Office,11,7090.08
+1800,Tiffany Brown,Small Business,10,26624.87
+1763,Sandra Martinez,Home Office,10,14446.85
+1760,Jessica Martin,Small Business,10,28681.7
+1722,Robert Lopez,Consumer,10,11058.22
+1721,Emily Wilson,Consumer,10,8563.81
+1670,Ashley Ramirez,Consumer,10,14496.93
+1591,Brian White,Corporate,10,19698.42
+1583,Brandon Lee,Corporate,10,23209.8
+1574,Jason Clark,Corporate,10,29753.03
+1570,Charles Thompson,Home Office,10,7621.54
+1506,Sarah Taylor,Small Business,10,17075.42
+1494,Amanda Young,Small Business,10,16236.44
+1455,Barbara Harris,Consumer,10,15065.49
+1337,Emily Martin,Consumer,10,13307.33
+1320,Joshua Gonzalez,Consumer,10,17406.53
+1302,Karen Johnson,Consumer,10,11321.36
+1198,Stephanie Walker,Consumer,10,8363.67
+1159,Nicole Martinez,Consumer,10,12138.39
+1122,Nicole Perez,Consumer,10,8994.89
+1022,Laura Taylor,Small Business,10,29892.93
+958,Michelle Harris,Small Business,10,21880.94
+950,Matthew Taylor,Consumer,10,21921.4
+936,Charles Rodriguez,Small Business,10,17433.45
+929,Michael Allen,Home Office,10,9617.36
+928,Brandon Thompson,Consumer,10,20220.89
+879,Michael Robinson,Home Office,10,18793.1
+852,Robert Allen,Small Business,10,16879.96
+798,Tiffany White,Home Office,10,16254.86
+758,Jason Thomas,Home Office,10,13035.96
+739,Matthew Ramirez,Consumer,10,13364.14
+731,Charles Martinez,Corporate,10,22290.88
+700,Emily White,Small Business,10,18702.08
+665,Brittany Williams,Consumer,10,12101.78
+633,Stephanie Smith,Corporate,10,21977.95
+586,Nicole Gonzalez,Home Office,10,30152.88
+552,Susan White,Consumer,10,17593.29
+547,Christopher Anderson,Consumer,10,8386.79
+542,Kevin Sanchez,Small Business,10,16521.24
+513,Scott Gonzalez,Corporate,10,25245.41
+494,Matthew Young,Small Business,10,14127.45
+452,Scott Harris,Corporate,10,22350.59
+401,Susan Davis,Consumer,10,10285.62
+386,David Garcia,Consumer,10,10958.6
+363,Robert White,Consumer,10,5769.33
+359,Jason Sanchez,Corporate,10,18387.11
+306,William White,Consumer,10,13445.33
+285,Emily Lewis,Consumer,10,9294.42
+262,Emily Wilson,Consumer,10,27023.46
+244,Linda King,Home Office,10,17238.67
+151,David Thomas,Consumer,10,9617.6
+1777,Michael Moore,Corporate,9,21108.37
+1677,Michael Thompson,Consumer,9,9801.85
+1656,Anthony Moore,Consumer,9,13346.45
+1647,Emily Gonzalez,Small Business,9,16721.88
+1603,Michelle Gonzalez,Home Office,9,13215.47
+1597,Andrew Sanchez,Consumer,9,17587.19
+1571,Michael Moore,Consumer,9,6324.33
+1550,Elizabeth Young,Home Office,9,8060.75
+1360,Kevin Ramirez,Consumer,9,11505.54
+1333,Andrew Perez,Corporate,9,13990.63
+1326,Andrew Jones,Small Business,9,20891.7
+1310,Jason Allen,Corporate,9,20764.98
+1262,Angela Williams,Small Business,9,25301.06
+1237,William Allen,Consumer,9,4955.46
+1207,Daniel Walker,Small Business,9,18443.35
+1095,Sarah Taylor,Corporate,9,18312.37
+1059,Robert Sanchez,Home Office,9,9300.37
+1049,Anthony Young,Home Office,9,8844.74
+1042,Ashley Lopez,Corporate,9,18569.88
+1025,David Martinez,Corporate,9,34961.94
+1018,Kevin Gonzalez,Small Business,9,24585.26
+982,Sandra Lee,Corporate,9,21608.39
+968,Elizabeth Smith,Consumer,9,22498.03
+916,Tiffany Thomas,Home Office,9,11163.0
+888,Sandra Garcia,Consumer,9,3068.98
+837,Jennifer Johnson,Consumer,9,12793.58
+710,Susan Martin,Consumer,9,5490.15
+695,William Williams,Consumer,9,16304.23
+652,Jason Gonzalez,Small Business,9,19153.67
+651,Jessica Sanchez,Consumer,9,8818.51
+620,Michelle Allen,Consumer,9,5719.79
+539,Kimberly Robinson,Small Business,9,23761.17
+529,Karen Lopez,Home Office,9,5071.28
+504,Jennifer Brown,Home Office,9,14804.6
+489,Anthony Jones,Home Office,9,13328.67
+415,David Johnson,Small Business,9,23477.54
+365,William Moore,Corporate,9,21068.28
+292,Ashley King,Small Business,9,10788.73
+220,Charles Smith,Home Office,9,17780.42
+196,Daniel Smith,Consumer,9,10748.15
+160,Stephanie Brown,Consumer,9,9957.29
+26,James Davis,Home Office,9,10384.84
+1767,Robert Johnson,Corporate,8,20219.21
+1748,Robert Rodriguez,Corporate,8,18901.99
+1654,Tiffany Jackson,Small Business,8,12372.59
+1607,Kimberly Rodriguez,Home Office,8,11751.96
+1599,Laura Ramirez,Consumer,8,5015.51
+1548,Andrew King,Consumer,8,11226.07
+1532,Anthony Walker,Consumer,8,10503.0
+1509,Melissa Hernandez,Corporate,8,23135.24
+1496,Joshua Thompson,Corporate,8,8285.11
+1485,Karen Gonzalez,Consumer,8,7288.47
+1474,Andrew Allen,Consumer,8,4372.08
+1417,Elizabeth Allen,Consumer,8,12647.23
+1413,Rebecca Allen,Consumer,8,12812.86
+1386,Matthew Perez,Consumer,8,9848.59
+1334,Emily Robinson,Small Business,8,17703.29
+1323,Patricia Lewis,Small Business,8,15004.9
+1258,Rebecca Smith,Consumer,8,6056.43
+1252,Jason Harris,Corporate,8,20146.5
+1201,Kevin Hernandez,Consumer,8,6297.9
+1190,Justin Martinez,Home Office,8,6830.59
+1154,Joshua King,Consumer,8,5287.16
+1146,Karen Young,Corporate,8,12915.06
+1143,Emily Smith,Small Business,8,11186.77
+1135,Jason Harris,Consumer,8,5202.33
+1081,Michael Allen,Small Business,8,23338.0
+1043,Jessica Moore,Consumer,8,7403.07
+1035,Justin King,Home Office,8,7270.42
+1000,Ashley Smith,Corporate,8,25153.11
+987,Emily Jones,Consumer,8,18058.6
+882,Sharon Thomas,Small Business,8,20611.58
+880,Laura White,Home Office,8,8087.69
+839,Kevin Lee,Consumer,8,7144.99
+835,David Anderson,Small Business,8,19872.62
+797,Michelle Smith,Consumer,8,14586.73
+703,Christopher Brown,Small Business,8,18542.96
+659,Stephanie Sanchez,Corporate,8,21324.86
+605,Mary Allen,Consumer,8,6363.06
+577,Brian Miller,Corporate,8,13322.35
+442,Amanda King,Consumer,8,6819.24
+435,Anthony Lee,Consumer,8,7638.75
+424,Brittany Davis,Corporate,8,30145.49
+411,Michael Robinson,Corporate,8,17088.1
+392,Amanda Walker,Corporate,8,28073.27
+355,Daniel Sanchez,Small Business,8,17999.99
+343,Christopher Jackson,Consumer,8,4653.54
+299,Joshua Jones,Home Office,8,18147.99
+246,Daniel Martin,Corporate,8,19019.86
+200,Michael Young,Consumer,8,6332.19
+191,Brandon Lee,Corporate,8,31818.8
+181,Sarah Martinez,Consumer,8,7252.37
+168,Emily Miller,Consumer,8,3465.95
+79,Barbara Anderson,Consumer,8,18009.24
+17,Jessica Rodriguez,Corporate,8,23909.76
+16,Robert King,Consumer,8,13897.05
+1704,Emily Wilson,Home Office,7,9656.58
+1667,Michael Garcia,Corporate,7,16357.74
+1665,Michael Anderson,Corporate,7,38716.47
+1629,Christopher Hernandez,Consumer,7,3548.06
+1565,Brittany Clark,Corporate,7,15020.6
+1439,Jennifer Garcia,Corporate,7,19902.23
+1404,Jeffrey Jones,Consumer,7,8288.96
+1398,William White,Consumer,7,12578.24
+1331,Melissa Thomas,Consumer,7,2559.44
+1327,Matthew Garcia,Small Business,7,6609.09
+1317,Christopher Martin,Corporate,7,21419.34
+1311,Kevin King,Consumer,7,7879.6
+1307,Emily Perez,Small Business,7,9380.12
+1292,Sandra Brown,Consumer,7,9284.0
+1291,Amy Lewis,Consumer,7,8396.35
+1217,Tiffany Davis,Consumer,7,6484.9
+1138,Brandon Ramirez,Consumer,7,4764.78
+1133,Sharon Garcia,Consumer,7,4101.94
+1102,Ashley Gonzalez,Consumer,7,6782.97
+1087,Linda Sanchez,Home Office,7,8187.34
+1077,Angela Martin,Home Office,7,4525.99
+1074,Patricia Walker,Consumer,7,23635.86
+1045,John Anderson,Consumer,7,5518.95
+1038,Susan Gonzalez,Consumer,7,8340.9
+913,Angela King,Consumer,7,4526.97
+883,Matthew Thompson,Corporate,7,10600.13
+874,Scott Taylor,Consumer,7,6270.54
+836,Emily Martin,Small Business,7,22947.69
+826,Robert Martinez,Small Business,7,19080.97
+800,James Brown,Small Business,7,16043.55
+772,Melissa Moore,Consumer,7,11040.07
+755,Michael White,Home Office,7,6244.63
+744,Emily Thompson,Home Office,7,4132.92
+742,Joshua Thomas,Consumer,7,1714.44
+705,Nicole Lopez,Corporate,7,22600.61
+656,Jason Robinson,Consumer,7,9547.62
+649,Jeffrey Gonzalez,Consumer,7,11009.36
+630,Andrew Davis,Small Business,7,18158.89
+604,Patricia Lee,Corporate,7,12025.58
+563,Elizabeth Harris,Consumer,7,8671.03
+550,Linda White,Consumer,7,11938.89
+463,William Sanchez,Corporate,7,10807.37
+396,Angela Jones,Corporate,7,16793.75
+351,Susan Williams,Consumer,7,10700.25
+330,Jessica Lee,Home Office,7,6571.3
+287,Jeffrey White,Corporate,7,20462.67
+240,Thomas Hernandez,Corporate,7,14783.54
+231,Anthony Sanchez,Corporate,7,15181.16
+227,Anthony Ramirez,Small Business,7,13725.26
+223,Melissa Harris,Corporate,7,11761.68
+184,Linda Clark,Small Business,7,22504.45
+165,Patricia Gonzalez,Corporate,7,14636.81
+128,Matthew White,Home Office,7,7345.75
+127,Brian Hernandez,Consumer,7,19908.73
+33,Brandon Jones,Consumer,7,16321.52
+1790,Matthew Lee,Home Office,6,9816.96
+1762,Anthony Lee,Small Business,6,10535.08
+1742,Stephanie Lewis,Home Office,6,11123.01
+1719,Sharon Anderson,Small Business,6,14911.43
+1658,Barbara Davis,Corporate,6,4734.69
+1627,Daniel Wilson,Home Office,6,9020.56
+1590,Jennifer Jones,Consumer,6,4743.71
+1563,Emily Anderson,Small Business,6,5636.03
+1541,Robert Lewis,Consumer,6,7302.4
+1539,Matthew Jackson,Consumer,6,11392.46
+1465,Anthony Lopez,Home Office,6,4612.52
+1464,Robert Martinez,Home Office,6,10254.26
+1405,Sarah Harris,Small Business,6,11565.35
+1403,Jennifer Rodriguez,Consumer,6,7229.2
+1387,Robert Gonzalez,Home Office,6,2700.65
+1373,Scott Miller,Consumer,6,5362.44
+1321,Jennifer Clark,Consumer,6,4851.5
+1290,Thomas Martinez,Small Business,6,12385.03
+1248,Brandon Smith,Home Office,6,21449.84
+1200,Michelle Martinez,Corporate,6,12774.25
+1186,Jennifer Perez,Home Office,6,6748.6
+1066,Robert Harris,Consumer,6,810.67
+1065,Amy Martin,Consumer,6,4348.01
+1057,Susan King,Consumer,6,15101.2
+1037,Justin Miller,Small Business,6,8980.41
+998,Kimberly Ramirez,Consumer,6,5292.38
+995,James Gonzalez,Consumer,6,3500.91
+988,Andrew Davis,Consumer,6,8631.92
+942,Kimberly Davis,Consumer,6,6561.47
+935,James Moore,Home Office,6,8171.87
+925,Elizabeth Lee,Corporate,6,16222.91
+902,Patricia Martin,Consumer,6,1787.21
+875,Ashley Moore,Consumer,6,9166.52
+830,Sarah Davis,Consumer,6,2807.94
+741,Angela Thompson,Small Business,6,13863.75
+730,Amanda Ramirez,Corporate,6,11430.6
+720,Thomas Rodriguez,Consumer,6,4661.06
+688,Melissa Ramirez,Home Office,6,9112.57
+683,Thomas Johnson,Consumer,6,2057.87
+675,William Wilson,Consumer,6,7157.77
+587,Melissa Robinson,Consumer,6,4579.11
+528,Nicole Martinez,Home Office,6,2424.05
+525,Jeffrey Jackson,Home Office,6,3407.42
+524,Kimberly Rodriguez,Home Office,6,4396.89
+519,Amy King,Home Office,6,8137.08
+482,Scott Perez,Consumer,6,9324.03
+449,Jennifer Hernandez,Consumer,6,2338.32
+448,William Gonzalez,Consumer,6,7808.06
+410,Andrew King,Consumer,6,7752.62
+409,David Davis,Consumer,6,5205.64
+405,Amy Perez,Home Office,6,7169.28
+403,Amanda Clark,Consumer,6,11398.88
+402,Matthew Martinez,Consumer,6,7548.97
+389,Kimberly King,Small Business,6,5397.13
+323,Anthony Rodriguez,Consumer,6,10751.98
+302,Rebecca Perez,Consumer,6,5226.94
+248,Christopher Allen,Small Business,6,13103.48
+237,Karen Hernandez,Consumer,6,4056.89
+211,Karen Williams,Corporate,6,16391.61
+169,Michael Garcia,Consumer,6,11548.11
+149,John Wilson,Home Office,6,12184.2
+81,Robert King,Home Office,6,6502.44
+50,Andrew Thompson,Consumer,6,2758.22
+12,William Hernandez,Consumer,6,4861.37

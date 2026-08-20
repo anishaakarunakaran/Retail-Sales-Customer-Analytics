@@ -1,0 +1,38 @@
+# Data files (raw is regenerable via python/generate_data.py; cleaned is committed for Power BI use)
+data/raw/*.csv
+data/raw/*.db
+
+# Generated database
+*.db
+*.sqlite
+*.sqlite3
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+__pycache__/
+*.pyc
+
+# Environment
+.venv/
+venv/
+env/
+.conda/
+
+# Power BI
+powerbi/*.pbix
+powerbi/*.pbip
+
+# OS / editor
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
+
+# Charts generated from scripts (kept in repo to render the README)
+# visuals/*.png
+
+# Python artifacts
+*.egg-info/
+dist/
+build/

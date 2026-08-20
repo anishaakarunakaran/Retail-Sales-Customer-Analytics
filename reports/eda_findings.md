@@ -1,0 +1,33 @@
+- KPI: Revenue $68,905,247 | Profit $16,396,834 | Margin 23.8% | Orders 33,209 | Customers 1,648 | AOV $2,074.90
+- Revenue growth 2021->2024: 22.1% (CAGR 6.9%)
+-   2021: base year
+-   2022: $16,390,860 profit $3,955,503 (+5.1% yoy)
+-   2023: $17,878,039 profit $4,242,613 (+9.1% yoy)
+-   2024: $19,044,295 profit $4,508,668 (+6.5% yoy)
+- Peak demand month: December (avg $2,267,938/year vs annual month average $1,435,526)
+- Lowest demand month: July (2.4x the trough)
+- Weekend share of sales: 29.0%
+- Category revenue share: Technology 38%, Furniture 35%, Home & Lifestyle 17%, Office Supplies 10%
+- Category margin: Technology 12.4%, Furniture 29.6%, Home & Lifestyle 35.5%, Office Supplies 27.1%
+- Top product by revenue: CoreX Computer 3 ($3,890,363, margin 7.3%)
+- Top product by profit: Oakline Chair 2 ($562,595)
+- Customers: 1,648 | one-time buyers 9% | repeat buyers 91%
+- New customers by year: 2021: 1312, 2022: 185, 2023: 85, 2024: 66
+- High-value customers (top 25% by spend) contribute 74% of revenue from 412 customers
+- Segment AOV: Consumer: $1,221, Corporate: $2,558, Home Office: $1,618, Small Business: $2,240
+- Correlation age vs customer spend: r=0.001, p=0.9539 (not significant)
+- Region revenue share: West: 29%, East: 28%, South: 26%, Central: 17%
+- Region margin: West: 23.5%, East: 23.8%, South: 23.9%, Central: 24.0%
+- Best region: West ($19,877,497, margin 23.5%)
+- Weakest region: Central ($11,899,580, margin 24.0%)
+- Top state: California ($9,615,864)
+- Margin by discount band: 0-10%: 28.7%, 10-20%: 20.5%, 20-30%: 9.9%, 30%+: -8.2%, No Discount: 32.1%
+- Discount bands >20% carry only 16.6% of revenue but drag margin down to 0.8%
+- Discount vs Sales: r=-0.077 (p=1.98e-140)
+- Discount vs Profit: r=-0.324 (p=0.00e+00)
+- Discount vs Quantity: r=0.004 (p=1.95e-01)
+- Discount vs Basket Value (qty*price): r=0.001 (p=6.67e-01)
+- T-test (Welch): margin discounted vs not -> t=-186.19, p=0.00e+00
+- T-test AOV high vs low tier -> t=24.55, p=4.10e-94
+- ANOVA margin by category -> F=9119.35, p=0.00e+00
+- ANOVA spend by segment -> F=137.43, p=1.91e-79

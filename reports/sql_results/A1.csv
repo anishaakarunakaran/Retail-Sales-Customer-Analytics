@@ -1,0 +1,102 @@
+category,product_name,revenue,cat_rank
+Furniture,Oakline Office Desk 5,1974817.86,1
+Furniture,Oakline Office Desk 3,1776481.69,2
+Furniture,Oakline Office Desk 6,1767059.92,3
+Furniture,Oakline Chair 2,1733876.39,4
+Furniture,Oakline Office Desk 4,1585697.56,5
+Furniture,Oakline Table 1,1555200.67,6
+Furniture,Oakline Chair 4,1508318.43,7
+Furniture,Oakline Table 2,1413669.4,8
+Furniture,Oakline Table 3,1346676.3,9
+Furniture,Oakline Chair 3,1263973.26,10
+Furniture,Oakline Bookcase 5,1205703.87,11
+Furniture,Oakline Table 4,977165.38,12
+Furniture,Oakline Storage Furniture 2,913721.96,13
+Furniture,Oakline Office Desk 2,905762.39,14
+Furniture,Oakline Office Desk 1,875745.49,15
+Furniture,Oakline Bookcase 2,649393.25,16
+Furniture,Oakline Bookcase 4,631177.07,17
+Furniture,Oakline Chair 1,470951.06,18
+Furniture,Oakline Storage Furniture 1,450483.87,19
+Furniture,Oakline Bookcase 6,444992.28,20
+Furniture,Oakline Bookcase 3,367095.79,21
+Furniture,Oakline Storage Furniture 3,255800.03,22
+Furniture,Oakline Bookcase 1,181728.24,23
+Furniture,Oakline Storage Furniture 4,118556.15,24
+Home & Lifestyle,Lumina Appliance 1,1678053.43,1
+Home & Lifestyle,Lumina Appliance 4,1190430.47,2
+Home & Lifestyle,Lumina Appliance 2,1048491.07,3
+Home & Lifestyle,Lumina Kitchenware 1,757234.48,4
+Home & Lifestyle,Lumina Kitchenware 5,682870.58,5
+Home & Lifestyle,Lumina Home Decor 2,599111.15,6
+Home & Lifestyle,Lumina Lighting 3,571898.44,7
+Home & Lifestyle,Lumina Lighting 4,570181.88,8
+Home & Lifestyle,Lumina Kitchenware 2,496457.9,9
+Home & Lifestyle,Lumina Home Decor 3,483459.72,10
+Home & Lifestyle,Lumina Appliance 3,452918.14,11
+Home & Lifestyle,Lumina Home Decor 4,440154.21,12
+Home & Lifestyle,Lumina Kitchenware 3,409279.77,13
+Home & Lifestyle,Lumina Kitchenware 6,396711.87,14
+Home & Lifestyle,Lumina Cleaning Supplie 3,329030.12,15
+Home & Lifestyle,Lumina Kitchenware 4,327125.12,16
+Home & Lifestyle,Lumina Home Decor 5,271579.08,17
+Home & Lifestyle,Lumina Home Decor 1,178966.82,18
+Home & Lifestyle,Lumina Cleaning Supplie 4,176164.52,19
+Home & Lifestyle,Lumina Cleaning Supplie 6,123193.41,20
+Home & Lifestyle,Lumina Cleaning Supplie 1,104183.89,21
+Home & Lifestyle,Lumina Lighting 2,100654.46,22
+Home & Lifestyle,Lumina Cleaning Supplie 5,84282.22,23
+Home & Lifestyle,Lumina Lighting 1,82547.27,24
+Home & Lifestyle,Lumina Cleaning Supplie 2,48447.09,25
+Office Supplies,StapleCo Office Equipment 3,790029.61,1
+Office Supplies,StapleCo Office Equipment 2,782841.21,2
+Office Supplies,StapleCo Office Equipment 4,682902.78,3
+Office Supplies,StapleCo Binder 5,377911.94,4
+Office Supplies,StapleCo Office Equipment 1,348577.2,5
+Office Supplies,StapleCo Storage & Organization 6,328061.58,6
+Office Supplies,StapleCo Binder 2,325027.85,7
+Office Supplies,StapleCo Binder 6,301397.97,8
+Office Supplies,StapleCo Storage & Organization 5,291264.31,9
+Office Supplies,StapleCo Binder 3,283866.71,10
+Office Supplies,StapleCo Paper 4,265957.16,11
+Office Supplies,StapleCo Paper 6,237802.75,12
+Office Supplies,StapleCo Storage & Organization 2,210865.65,13
+Office Supplies,StapleCo Paper 5,194990.15,14
+Office Supplies,StapleCo Binder 1,192349.22,15
+Office Supplies,StapleCo Pens & Writing 5,162454.17,16
+Office Supplies,StapleCo Paper 2,136176.39,17
+Office Supplies,StapleCo Pens & Writing 6,127340.93,18
+Office Supplies,StapleCo Paper 3,114337.25,19
+Office Supplies,StapleCo Pens & Writing 3,111758.63,20
+Office Supplies,StapleCo Storage & Organization 1,100277.84,21
+Office Supplies,StapleCo Storage & Organization 4,90484.15,22
+Office Supplies,StapleCo Pens & Writing 1,88440.41,23
+Office Supplies,StapleCo Binder 4,67100.74,24
+Office Supplies,StapleCo Paper 1,53243.72,25
+Office Supplies,StapleCo Pens & Writing 2,48867.56,26
+Office Supplies,StapleCo Storage & Organization 3,43115.51,27
+Office Supplies,StapleCo Pens & Writing 4,17394.45,28
+Technology,CoreX Computer 3,3890362.65,1
+Technology,CoreX Computer 4,3669074.4,2
+Technology,CoreX Computer 1,3154506.17,3
+Technology,CoreX Computer 2,2383230.51,4
+Technology,CoreX Phone 3,1602669.96,5
+Technology,CoreX Phone 6,1555826.32,6
+Technology,CoreX Phone 2,1359772.39,7
+Technology,CoreX Phone 1,1194140.61,8
+Technology,CoreX Phone 4,855138.84,9
+Technology,CoreX Accessorie 2,756106.82,10
+Technology,CoreX Phone 5,704535.02,11
+Technology,CoreX Accessorie 3,678657.52,12
+Technology,CoreX Peripheral 5,562997.12,13
+Technology,CoreX Software 2,555713.29,14
+Technology,CoreX Peripheral 1,493398.78,15
+Technology,CoreX Peripheral 6,461756.99,16
+Technology,CoreX Software 1,455001.61,17
+Technology,CoreX Software 4,406409.89,18
+Technology,CoreX Accessorie 4,395016.87,19
+Technology,CoreX Accessorie 1,332669.87,20
+Technology,CoreX Software 3,320122.64,21
+Technology,CoreX Peripheral 3,175171.63,22
+Technology,CoreX Peripheral 2,138692.72,23
+Technology,CoreX Peripheral 4,51960.8,24

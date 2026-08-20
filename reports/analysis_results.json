@@ -1,0 +1,1423 @@
+{
+  "kpis": {
+    "total_sales": 68905246.68,
+    "total_profit": 16396833.95,
+    "total_orders": 33209,
+    "total_customers": 1648,
+    "total_quantity": 324562,
+    "avg_order_value": 2074.9,
+    "avg_order_lines": 3.25,
+    "overall_profit_margin": 0.238,
+    "avg_discount": 0.1114,
+    "date_range": [
+      "2021-01-01",
+      "2024-12-31"
+    ]
+  },
+  "time": {
+    "monthly": [
+      {
+        "Order_Date": "2021-01",
+        "sales": 924428.02,
+        "profit": 230036.08,
+        "orders": 471,
+        "qty": 4483
+      },
+      {
+        "Order_Date": "2021-02",
+        "sales": 1038310.71,
+        "profit": 255342.02,
+        "orders": 460,
+        "qty": 4769
+      },
+      {
+        "Order_Date": "2021-03",
+        "sales": 1150893.27,
+        "profit": 284089.44,
+        "orders": 584,
+        "qty": 5697
+      },
+      {
+        "Order_Date": "2021-04",
+        "sales": 874901.13,
+        "profit": 215925.94,
+        "orders": 448,
+        "qty": 4219
+      },
+      {
+        "Order_Date": "2021-05",
+        "sales": 1238985.96,
+        "profit": 291442.89,
+        "orders": 579,
+        "qty": 5594
+      },
+      {
+        "Order_Date": "2021-06",
+        "sales": 1188848.59,
+        "profit": 282886.85,
+        "orders": 564,
+        "qty": 5623
+      },
+      {
+        "Order_Date": "2021-07",
+        "sales": 895869.46,
+        "profit": 207250.66,
+        "orders": 412,
+        "qty": 4151
+      },
+      {
+        "Order_Date": "2021-08",
+        "sales": 1492716.93,
+        "profit": 337014.63,
+        "orders": 709,
+        "qty": 6944
+      },
+      {
+        "Order_Date": "2021-09",
+        "sales": 1516997.92,
+        "profit": 346121.53,
+        "orders": 687,
+        "qty": 6706
+      },
+      {
+        "Order_Date": "2021-10",
+        "sales": 1318354.52,
+        "profit": 291026.14,
+        "orders": 633,
+        "qty": 6133
+      },
+      {
+        "Order_Date": "2021-11",
+        "sales": 1939571.53,
+        "profit": 450925.0,
+        "orders": 923,
+        "qty": 9092
+      },
+      {
+        "Order_Date": "2021-12",
+        "sales": 2012174.9,
+        "profit": 497988.5,
+        "orders": 989,
+        "qty": 9988
+      },
+      {
+        "Order_Date": "2022-01",
+        "sales": 1060323.93,
+        "profit": 254794.83,
+        "orders": 488,
+        "qty": 4829
+      },
+      {
+        "Order_Date": "2022-02",
+        "sales": 1015343.8,
+        "profit": 251030.02,
+        "orders": 481,
+        "qty": 4734
+      },
+      {
+        "Order_Date": "2022-03",
+        "sales": 1295231.78,
+        "profit": 303604.71,
+        "orders": 622,
+        "qty": 5962
+      },
+      {
+        "Order_Date": "2022-04",
+        "sales": 1084385.1,
+        "profit": 251203.51,
+        "orders": 526,
+        "qty": 5268
+      },
+      {
+        "Order_Date": "2022-05",
+        "sales": 1111850.98,
+        "profit": 277811.59,
+        "orders": 578,
+        "qty": 5620
+      },
+      {
+        "Order_Date": "2022-06",
+        "sales": 1220409.32,
+        "profit": 290674.17,
+        "orders": 585,
+        "qty": 5815
+      },
+      {
+        "Order_Date": "2022-07",
+        "sales": 886412.45,
+        "profit": 224154.98,
+        "orders": 413,
+        "qty": 4076
+      },
+      {
+        "Order_Date": "2022-08",
+        "sales": 1450929.58,
+        "profit": 352704.2,
+        "orders": 750,
+        "qty": 7198
+      },
+      {
+        "Order_Date": "2022-09",
+        "sales": 1602058.12,
+        "profit": 392016.15,
+        "orders": 759,
+        "qty": 7322
+      },
+      {
+        "Order_Date": "2022-10",
+        "sales": 1475154.17,
+        "profit": 343680.99,
+        "orders": 660,
+        "qty": 6452
+      },
+      {
+        "Order_Date": "2022-11",
+        "sales": 2008432.13,
+        "profit": 480199.99,
+        "orders": 1001,
+        "qty": 9807
+      },
+      {
+        "Order_Date": "2022-12",
+        "sales": 2180328.18,
+        "profit": 533627.89,
+        "orders": 1048,
+        "qty": 10615
+      },
+      {
+        "Order_Date": "2023-01",
+        "sales": 988732.32,
+        "profit": 233454.11,
+        "orders": 496,
+        "qty": 4869
+      },
+      {
+        "Order_Date": "2023-02",
+        "sales": 1123673.42,
+        "profit": 265394.98,
+        "orders": 522,
+        "qty": 5157
+      },
+      {
+        "Order_Date": "2023-03",
+        "sales": 1432081.74,
+        "profit": 334058.69,
+        "orders": 650,
+        "qty": 6448
+      },
+      {
+        "Order_Date": "2023-04",
+        "sales": 1167212.38,
+        "profit": 277234.59,
+        "orders": 575,
+        "qty": 5480
+      },
+      {
+        "Order_Date": "2023-05",
+        "sales": 1543319.77,
+        "profit": 365348.72,
+        "orders": 694,
+        "qty": 6782
+      },
+      {
+        "Order_Date": "2023-06",
+        "sales": 1354256.2,
+        "profit": 317633.5,
+        "orders": 628,
+        "qty": 6230
+      },
+      {
+        "Order_Date": "2023-07",
+        "sales": 913955.87,
+        "profit": 221978.81,
+        "orders": 460,
+        "qty": 4265
+      },
+      {
+        "Order_Date": "2023-08",
+        "sales": 1703884.04,
+        "profit": 405738.28,
+        "orders": 806,
+        "qty": 8114
+      },
+      {
+        "Order_Date": "2023-09",
+        "sales": 1716446.3800000001,
+        "profit": 393317.84,
+        "orders": 837,
+        "qty": 8214
+      },
+      {
+        "Order_Date": "2023-10",
+        "sales": 1339412.77,
+        "profit": 324170.93,
+        "orders": 657,
+        "qty": 6308
+      },
+      {
+        "Order_Date": "2023-11",
+        "sales": 2316331.12,
+        "profit": 547033.92,
+        "orders": 1044,
+        "qty": 10379
+      },
+      {
+        "Order_Date": "2023-12",
+        "sales": 2278733.29,
+        "profit": 557249.0,
+        "orders": 1159,
+        "qty": 10997
+      },
+      {
+        "Order_Date": "2024-01",
+        "sales": 1328931.82,
+        "profit": 314020.49,
+        "orders": 630,
+        "qty": 6188
+      },
+      {
+        "Order_Date": "2024-02",
+        "sales": 1170656.45,
+        "profit": 267187.08,
+        "orders": 574,
+        "qty": 5418
+      },
+      {
+        "Order_Date": "2024-03",
+        "sales": 1433631.96,
+        "profit": 348463.34,
+        "orders": 665,
+        "qty": 6774
+      },
+      {
+        "Order_Date": "2024-04",
+        "sales": 1292436.51,
+        "profit": 314651.35,
+        "orders": 668,
+        "qty": 6365
+      },
+      {
+        "Order_Date": "2024-05",
+        "sales": 1450982.07,
+        "profit": 348062.18,
+        "orders": 762,
+        "qty": 7265
+      },
+      {
+        "Order_Date": "2024-06",
+        "sales": 1479603.3,
+        "profit": 349385.45,
+        "orders": 700,
+        "qty": 6781
+      },
+      {
+        "Order_Date": "2024-07",
+        "sales": 1021186.16,
+        "profit": 232208.3,
+        "orders": 489,
+        "qty": 4796
+      },
+      {
+        "Order_Date": "2024-08",
+        "sales": 1686416.41,
+        "profit": 391261.56,
+        "orders": 864,
+        "qty": 8275
+      },
+      {
+        "Order_Date": "2024-09",
+        "sales": 1774401.86,
+        "profit": 424991.73,
+        "orders": 851,
+        "qty": 8270
+      },
+      {
+        "Order_Date": "2024-10",
+        "sales": 1499724.56,
+        "profit": 370445.17,
+        "orders": 745,
+        "qty": 7203
+      },
+      {
+        "Order_Date": "2024-11",
+        "sales": 2305808.69,
+        "profit": 554566.78,
+        "orders": 1127,
+        "qty": 10864
+      },
+      {
+        "Order_Date": "2024-12",
+        "sales": 2600515.11,
+        "profit": 593424.4400000001,
+        "orders": 1236,
+        "qty": 12023
+      }
+    ],
+    "yearly": [
+      {
+        "Order_Year": 2021,
+        "sales": 15592052.94,
+        "profit": 3690049.68,
+        "orders": 7459,
+        "yoy_growth": NaN
+      },
+      {
+        "Order_Year": 2022,
+        "sales": 16390859.54,
+        "profit": 3955503.03,
+        "orders": 7911,
+        "yoy_growth": 0.0512
+      },
+      {
+        "Order_Year": 2023,
+        "sales": 17878039.3,
+        "profit": 4242613.37,
+        "orders": 8528,
+        "yoy_growth": 0.0907
+      },
+      {
+        "Order_Year": 2024,
+        "sales": 19044294.9,
+        "profit": 4508667.87,
+        "orders": 9311,
+        "yoy_growth": 0.0652
+      }
+    ],
+    "seasonality": {
+      "1": 4302416.0,
+      "2": 4347984.0,
+      "3": 5311839.0,
+      "4": 4418935.0,
+      "5": 5345139.0,
+      "6": 5243117.0,
+      "7": 3717424.0,
+      "8": 6333947.0,
+      "9": 6609904.0,
+      "10": 5632646.0,
+      "11": 8570143.0,
+      "12": 9071751.0
+    },
+    "dow_sales": {
+      "Monday": 9814562.0,
+      "Tuesday": 9616458.0,
+      "Wednesday": 9957879.0,
+      "Thursday": 9548514.0,
+      "Friday": 9955709.0,
+      "Saturday": 9909226.0,
+      "Sunday": 10102897.0
+    }
+  },
+  "products": {
+    "top10_sales": [
+      {
+        "Product_ID": 37,
+        "Product_Name": "CoreX Computer 3",
+        "Category": "Technology",
+        "Sub_Category": "Computers",
+        "sales": 3890362.65,
+        "profit": 283137.0,
+        "qty": 1971,
+        "orders": 647,
+        "margin": 0.0727790762642655
+      },
+      {
+        "Product_ID": 38,
+        "Product_Name": "CoreX Computer 4",
+        "Category": "Technology",
+        "Sub_Category": "Computers",
+        "sales": 3669074.4,
+        "profit": 289195.68,
+        "qty": 2124,
+        "orders": 682,
+        "margin": 0.07881979171640673
+      },
+      {
+        "Product_ID": 35,
+        "Product_Name": "CoreX Computer 1",
+        "Category": "Technology",
+        "Sub_Category": "Computers",
+        "sales": 3154506.17,
+        "profit": 255432.59,
+        "qty": 1887,
+        "orders": 631,
+        "margin": 0.08097387554008176
+      },
+      {
+        "Product_ID": 36,
+        "Product_Name": "CoreX Computer 2",
+        "Category": "Technology",
+        "Sub_Category": "Computers",
+        "sales": 2383230.51,
+        "profit": 205821.51,
+        "qty": 1950,
+        "orders": 621,
+        "margin": 0.08636240142796764
+      },
+      {
+        "Product_ID": 71,
+        "Product_Name": "Oakline Office Desk 5",
+        "Category": "Furniture",
+        "Sub_Category": "Office Desks",
+        "sales": 1974817.86,
+        "profit": 539424.66,
+        "qty": 1985,
+        "orders": 666,
+        "margin": 0.2731516009278952
+      },
+      {
+        "Product_ID": 69,
+        "Product_Name": "Oakline Office Desk 3",
+        "Category": "Furniture",
+        "Sub_Category": "Office Desks",
+        "sales": 1776481.69,
+        "profit": 475358.49,
+        "qty": 2080,
+        "orders": 666,
+        "margin": 0.26758423274264087
+      },
+      {
+        "Product_ID": 72,
+        "Product_Name": "Oakline Office Desk 6",
+        "Category": "Furniture",
+        "Sub_Category": "Office Desks",
+        "sales": 1767059.92,
+        "profit": 501493.27,
+        "qty": 2017,
+        "orders": 658,
+        "margin": 0.2838009420755806
+      },
+      {
+        "Product_ID": 54,
+        "Product_Name": "Oakline Chair 2",
+        "Category": "Furniture",
+        "Sub_Category": "Chairs",
+        "sales": 1733876.39,
+        "profit": 562594.98,
+        "qty": 2951,
+        "orders": 1004,
+        "margin": 0.32447236910585076
+      },
+      {
+        "Product_ID": 77,
+        "Product_Name": "Lumina Appliance 1",
+        "Category": "Home & Lifestyle",
+        "Sub_Category": "Appliances",
+        "sales": 1678053.43,
+        "profit": 472642.52,
+        "qty": 3013,
+        "orders": 982,
+        "margin": 0.28166118643790744
+      },
+      {
+        "Product_ID": 31,
+        "Product_Name": "CoreX Phone 3",
+        "Category": "Technology",
+        "Sub_Category": "Phones",
+        "sales": 1602669.96,
+        "profit": 133640.97,
+        "qty": 2431,
+        "orders": 794,
+        "margin": 0.08338645718423524
+      }
+    ],
+    "top10_profit": [
+      {
+        "Product_ID": 54,
+        "Product_Name": "Oakline Chair 2",
+        "Category": "Furniture",
+        "Sub_Category": "Chairs",
+        "sales": 1733876.39,
+        "profit": 562594.98,
+        "qty": 2951,
+        "orders": 1004,
+        "margin": 0.32447236910585076
+      },
+      {
+        "Product_ID": 71,
+        "Product_Name": "Oakline Office Desk 5",
+        "Category": "Furniture",
+        "Sub_Category": "Office Desks",
+        "sales": 1974817.86,
+        "profit": 539424.66,
+        "qty": 1985,
+        "orders": 666,
+        "margin": 0.2731516009278952
+      },
+      {
+        "Product_ID": 72,
+        "Product_Name": "Oakline Office Desk 6",
+        "Category": "Furniture",
+        "Sub_Category": "Office Desks",
+        "sales": 1767059.92,
+        "profit": 501493.27,
+        "qty": 2017,
+        "orders": 658,
+        "margin": 0.2838009420755806
+      },
+      {
+        "Product_ID": 56,
+        "Product_Name": "Oakline Chair 4",
+        "Category": "Furniture",
+        "Sub_Category": "Chairs",
+        "sales": 1508318.43,
+        "profit": 484970.45,
+        "qty": 2983,
+        "orders": 994,
+        "margin": 0.32153054710072065
+      },
+      {
+        "Product_ID": 69,
+        "Product_Name": "Oakline Office Desk 3",
+        "Category": "Furniture",
+        "Sub_Category": "Office Desks",
+        "sales": 1776481.69,
+        "profit": 475358.49,
+        "qty": 2080,
+        "orders": 666,
+        "margin": 0.26758423274264087
+      },
+      {
+        "Product_ID": 77,
+        "Product_Name": "Lumina Appliance 1",
+        "Category": "Home & Lifestyle",
+        "Sub_Category": "Appliances",
+        "sales": 1678053.43,
+        "profit": 472642.52,
+        "qty": 3013,
+        "orders": 982,
+        "margin": 0.28166118643790744
+      },
+      {
+        "Product_ID": 57,
+        "Product_Name": "Oakline Table 1",
+        "Category": "Furniture",
+        "Sub_Category": "Tables",
+        "sales": 1555200.67,
+        "profit": 455534.85000000003,
+        "qty": 2167,
+        "orders": 732,
+        "margin": 0.29291065698936464
+      },
+      {
+        "Product_ID": 70,
+        "Product_Name": "Oakline Office Desk 4",
+        "Category": "Furniture",
+        "Sub_Category": "Office Desks",
+        "sales": 1585697.56,
+        "profit": 445566.41000000003,
+        "qty": 2105,
+        "orders": 665,
+        "margin": 0.28099078994609794
+      },
+      {
+        "Product_ID": 58,
+        "Product_Name": "Oakline Table 2",
+        "Category": "Furniture",
+        "Sub_Category": "Tables",
+        "sales": 1413669.4,
+        "profit": 409199.94,
+        "qty": 2221,
+        "orders": 746,
+        "margin": 0.2894594308966439
+      },
+      {
+        "Product_ID": 55,
+        "Product_Name": "Oakline Chair 3",
+        "Category": "Furniture",
+        "Sub_Category": "Chairs",
+        "sales": 1263973.26,
+        "profit": 406343.88,
+        "qty": 2918,
+        "orders": 964,
+        "margin": 0.32148138956673816
+      }
+    ],
+    "low_margin_high_volume": [
+      {
+        "Product_ID": 37,
+        "Product_Name": "CoreX Computer 3",
+        "Category": "Technology",
+        "Sub_Category": "Computers",
+        "sales": 3890362.65,
+        "profit": 283137.0,
+        "qty": 1971,
+        "orders": 647,
+        "margin": 0.0727790762642655
+      },
+      {
+        "Product_ID": 30,
+        "Product_Name": "CoreX Phone 2",
+        "Category": "Technology",
+        "Sub_Category": "Phones",
+        "sales": 1359772.3900000001,
+        "profit": 104983.27,
+        "qty": 2496,
+        "orders": 813,
+        "margin": 0.07720650218526645
+      },
+      {
+        "Product_ID": 34,
+        "Product_Name": "CoreX Phone 6",
+        "Category": "Technology",
+        "Sub_Category": "Phones",
+        "sales": 1555826.32,
+        "profit": 120305.72,
+        "qty": 2351,
+        "orders": 780,
+        "margin": 0.07732593185594135
+      },
+      {
+        "Product_ID": 38,
+        "Product_Name": "CoreX Computer 4",
+        "Category": "Technology",
+        "Sub_Category": "Computers",
+        "sales": 3669074.4,
+        "profit": 289195.68,
+        "qty": 2124,
+        "orders": 682,
+        "margin": 0.07881979171640673
+      },
+      {
+        "Product_ID": 35,
+        "Product_Name": "CoreX Computer 1",
+        "Category": "Technology",
+        "Sub_Category": "Computers",
+        "sales": 3154506.17,
+        "profit": 255432.59,
+        "qty": 1887,
+        "orders": 631,
+        "margin": 0.08097387554008176
+      },
+      {
+        "Product_ID": 31,
+        "Product_Name": "CoreX Phone 3",
+        "Category": "Technology",
+        "Sub_Category": "Phones",
+        "sales": 1602669.96,
+        "profit": 133640.97,
+        "qty": 2431,
+        "orders": 794,
+        "margin": 0.08338645718423524
+      },
+      {
+        "Product_ID": 29,
+        "Product_Name": "CoreX Phone 1",
+        "Category": "Technology",
+        "Sub_Category": "Phones",
+        "sales": 1194140.61,
+        "profit": 102439.28,
+        "qty": 2389,
+        "orders": 795,
+        "margin": 0.08578493951394886
+      },
+      {
+        "Product_ID": 36,
+        "Product_Name": "CoreX Computer 2",
+        "Category": "Technology",
+        "Sub_Category": "Computers",
+        "sales": 2383230.51,
+        "profit": 205821.51,
+        "qty": 1950,
+        "orders": 621,
+        "margin": 0.08636240142796764
+      },
+      {
+        "Product_ID": 69,
+        "Product_Name": "Oakline Office Desk 3",
+        "Category": "Furniture",
+        "Sub_Category": "Office Desks",
+        "sales": 1776481.69,
+        "profit": 475358.49,
+        "qty": 2080,
+        "orders": 666,
+        "margin": 0.26758423274264087
+      },
+      {
+        "Product_ID": 68,
+        "Product_Name": "Oakline Office Desk 2",
+        "Category": "Furniture",
+        "Sub_Category": "Office Desks",
+        "sales": 905762.39,
+        "profit": 245345.87,
+        "qty": 1996,
+        "orders": 637,
+        "margin": 0.270872220693553
+      }
+    ],
+    "category": [
+      {
+        "Category": "Technology",
+        "sales": 26152933.42,
+        "profit": 3242647.67,
+        "qty": 68724,
+        "orders": 16943,
+        "margin": 0.12398791439281688,
+        "sales_share": 0.37954923144612995
+      },
+      {
+        "Category": "Furniture",
+        "sales": 24374048.31,
+        "profit": 7203359.2700000005,
+        "qty": 52157,
+        "orders": 13805,
+        "margin": 0.29553397032714757,
+        "sales_share": 0.3537328358055883
+      },
+      {
+        "Category": "Home & Lifestyle",
+        "sales": 11603427.11,
+        "profit": 4114806.08,
+        "qty": 84844,
+        "orders": 19620,
+        "margin": 0.35461989298435814,
+        "sales_share": 0.16839685900678933
+      },
+      {
+        "Category": "Office Supplies",
+        "sales": 6774837.84,
+        "profit": 1836020.93,
+        "qty": 118837,
+        "orders": 23945,
+        "margin": 0.2710058858028696,
+        "sales_share": 0.09832107374149232
+      }
+    ],
+    "subcategory": [
+      {
+        "Sub_Category": "Computers",
+        "sales": 13097173.73,
+        "profit": 1033586.78,
+        "qty": 7932,
+        "orders": 2519,
+        "margin": 0.07891678016246334
+      },
+      {
+        "Sub_Category": "Office Desks",
+        "sales": 8885564.91,
+        "profit": 2449384.16,
+        "qty": 12156,
+        "orders": 3771,
+        "margin": 0.27565879995355297
+      },
+      {
+        "Sub_Category": "Phones",
+        "sales": 7272083.14,
+        "profit": 580226.2,
+        "qty": 14701,
+        "orders": 4569,
+        "margin": 0.07978816919851661
+      },
+      {
+        "Sub_Category": "Tables",
+        "sales": 5292711.75,
+        "profit": 1545245.28,
+        "qty": 8926,
+        "orders": 2850,
+        "margin": 0.2919571956662858
+      },
+      {
+        "Sub_Category": "Chairs",
+        "sales": 4977119.14,
+        "profit": 1608094.95,
+        "qty": 11791,
+        "orders": 3795,
+        "margin": 0.3230975399154299
+      },
+      {
+        "Sub_Category": "Appliances",
+        "sales": 4369893.11,
+        "profit": 1222599.26,
+        "qty": 11853,
+        "orders": 3720,
+        "margin": 0.2797778410648584
+      },
+      {
+        "Sub_Category": "Bookcases",
+        "sales": 3480090.5,
+        "profit": 1050365.45,
+        "qty": 11659,
+        "orders": 3689,
+        "margin": 0.3018213032103619
+      },
+      {
+        "Sub_Category": "Kitchenware",
+        "sales": 3069679.72,
+        "profit": 1206610.88,
+        "qty": 22080,
+        "orders": 6656,
+        "margin": 0.39307386765417984
+      },
+      {
+        "Sub_Category": "Office Equipment",
+        "sales": 2604350.8,
+        "profit": 546275.9400000001,
+        "qty": 11914,
+        "orders": 3757,
+        "margin": 0.20975512976208893
+      },
+      {
+        "Sub_Category": "Accessories",
+        "sales": 2162451.08,
+        "profit": 511458.32,
+        "qty": 15300,
+        "orders": 4797,
+        "margin": 0.23651786841809155
+      },
+      {
+        "Sub_Category": "Home Decor",
+        "sales": 1973270.98,
+        "profit": 837304.52,
+        "qty": 19115,
+        "orders": 5829,
+        "margin": 0.4243231307237894
+      },
+      {
+        "Sub_Category": "Peripherals",
+        "sales": 1883978.04,
+        "profit": 378481.23,
+        "qty": 21239,
+        "orders": 6371,
+        "margin": 0.20089471425049094
+      },
+      {
+        "Sub_Category": "Storage Furniture",
+        "sales": 1738562.01,
+        "profit": 550269.43,
+        "qty": 7625,
+        "orders": 2486,
+        "margin": 0.31650837119120073
+      },
+      {
+        "Sub_Category": "Software",
+        "sales": 1737247.43,
+        "profit": 738895.14,
+        "qty": 9552,
+        "orders": 3098,
+        "margin": 0.4253252169151288
+      },
+      {
+        "Sub_Category": "Binders",
+        "sales": 1547654.43,
+        "profit": 464927.83,
+        "qty": 29010,
+        "orders": 8546,
+        "margin": 0.30040803747125905
+      },
+      {
+        "Sub_Category": "Lighting",
+        "sales": 1325282.05,
+        "profit": 489876.58,
+        "qty": 11503,
+        "orders": 3650,
+        "margin": 0.36963948919401723
+      },
+      {
+        "Sub_Category": "Storage & Organization",
+        "sales": 1064069.04,
+        "profit": 284782.99,
+        "qty": 16199,
+        "orders": 4987,
+        "margin": 0.26763581994642
+      },
+      {
+        "Sub_Category": "Paper",
+        "sales": 1002507.42,
+        "profit": 326256.01,
+        "qty": 32006,
+        "orders": 9304,
+        "margin": 0.3254399952471175
+      },
+      {
+        "Sub_Category": "Cleaning Supplies",
+        "sales": 865301.25,
+        "profit": 358414.84,
+        "qty": 20293,
+        "orders": 6238,
+        "margin": 0.4142081616084572
+      },
+      {
+        "Sub_Category": "Pens & Writing",
+        "sales": 556256.15,
+        "profit": 213778.16,
+        "qty": 29708,
+        "orders": 8604,
+        "margin": 0.38431603857323643
+      }
+    ]
+  },
+  "customers": {
+    "customers": 1648,
+    "one_time_buyers": 146,
+    "repeat_buyers": 1502,
+    "new_per_year": {
+      "2021": 1312,
+      "2022": 185,
+      "2023": 85,
+      "2024": 66
+    },
+    "tiers": [
+      {
+        "value_tier": "High-value",
+        "customers": 412,
+        "sales": 50877946.0,
+        "avg_spend": 123490.16019417475,
+        "avg_orders": 52.62135922330097
+      },
+      {
+        "value_tier": "Low-value",
+        "customers": 824,
+        "sales": 5485526.88,
+        "avg_spend": 6657.19281553398,
+        "avg_orders": 4.99878640776699
+      },
+      {
+        "value_tier": "Mid-value",
+        "customers": 412,
+        "sales": 12541773.8,
+        "avg_spend": 30441.198543689323,
+        "avg_orders": 17.985436893203882
+      }
+    ],
+    "segment": [
+      {
+        "segment": "Consumer",
+        "customers": 625,
+        "sales": 7936253.51,
+        "avg_spend": 12698.01,
+        "avg_orders": 10.16,
+        "avg_aov": 1220.53
+      },
+      {
+        "segment": "Corporate",
+        "customers": 437,
+        "sales": 37046418.82,
+        "avg_spend": 84774.41,
+        "avg_orders": 33.43,
+        "avg_aov": 2557.97
+      },
+      {
+        "segment": "Home Office",
+        "customers": 318,
+        "sales": 8648771.6,
+        "avg_spend": 27197.39,
+        "avg_orders": 17.08,
+        "avg_aov": 1617.83
+      },
+      {
+        "segment": "Small Business",
+        "customers": 268,
+        "sales": 15273802.75,
+        "avg_spend": 56991.8,
+        "avg_orders": 25.43,
+        "avg_aov": 2240.29
+      }
+    ],
+    "age_spend_corr": {
+      "r": 0.0014,
+      "p": 0.9539
+    }
+  },
+  "geo": {
+    "region": [
+      {
+        "Region": "West",
+        "sales": 19877496.8,
+        "profit": 4675125.44,
+        "orders": 9653,
+        "margin": 0.23519689058634385,
+        "share": 0.28847580928506444
+      },
+      {
+        "Region": "East",
+        "sales": 19399351.51,
+        "profit": 4626737.97,
+        "orders": 9117,
+        "margin": 0.23849962034117497,
+        "share": 0.2815366382779489
+      },
+      {
+        "Region": "South",
+        "sales": 17728818.04,
+        "profit": 4243437.64,
+        "orders": 8446,
+        "margin": 0.2393525406164076,
+        "share": 0.2572927156379494
+      },
+      {
+        "Region": "Central",
+        "sales": 11899580.33,
+        "profit": 2851532.9,
+        "orders": 5993,
+        "margin": 0.23963306443765986,
+        "share": 0.1726948367990372
+      }
+    ],
+    "state": [
+      {
+        "State": "California",
+        "sales": 9615864.37,
+        "profit": 2277903.42,
+        "orders": 4684,
+        "margin": 0.2368901361698387
+      },
+      {
+        "State": "Florida",
+        "sales": 6704847.74,
+        "profit": 1608000.58,
+        "orders": 3116,
+        "margin": 0.23982656166924382
+      },
+      {
+        "State": "New York",
+        "sales": 6455759.19,
+        "profit": 1552131.24,
+        "orders": 3155,
+        "margin": 0.24042582666408285
+      },
+      {
+        "State": "Texas",
+        "sales": 6134015.73,
+        "profit": 1482083.27,
+        "orders": 3062,
+        "margin": 0.24161712901248134
+      },
+      {
+        "State": "Pennsylvania",
+        "sales": 5885280.72,
+        "profit": 1401733.4,
+        "orders": 2702,
+        "margin": 0.2381761324037573
+      },
+      {
+        "State": "Georgia",
+        "sales": 5350618.25,
+        "profit": 1291048.83,
+        "orders": 2535,
+        "margin": 0.24128965470485586
+      },
+      {
+        "State": "Arizona",
+        "sales": 4101557.1,
+        "profit": 951613.61,
+        "orders": 1898,
+        "margin": 0.23201276656614142
+      },
+      {
+        "State": "Massachusetts",
+        "sales": 3739819.6,
+        "profit": 880027.41,
+        "orders": 1689,
+        "margin": 0.23531279690603257
+      },
+      {
+        "State": "Colorado",
+        "sales": 3591381.97,
+        "profit": 840550.01,
+        "orders": 1730,
+        "margin": 0.23404639690831883
+      },
+      {
+        "State": "North Carolina",
+        "sales": 3473477.83,
+        "profit": 825975.74,
+        "orders": 1718,
+        "margin": 0.23779502286329549
+      },
+      {
+        "State": "Virginia",
+        "sales": 3318492.0,
+        "profit": 792845.92,
+        "orders": 1571,
+        "margin": 0.23891753242135286
+      },
+      {
+        "State": "Ohio",
+        "sales": 3193663.2,
+        "profit": 761978.37,
+        "orders": 1624,
+        "margin": 0.23859070987823636
+      },
+      {
+        "State": "Michigan",
+        "sales": 2844406.48,
+        "profit": 660205.63,
+        "orders": 1298,
+        "margin": 0.2321066396951817
+      },
+      {
+        "State": "Washington",
+        "sales": 2568693.36,
+        "profit": 605058.4,
+        "orders": 1341,
+        "margin": 0.23555104296294832
+      },
+      {
+        "State": "Illinois",
+        "sales": 1927369.14,
+        "profit": 465678.12,
+        "orders": 1086,
+        "margin": 0.2416133528006991
+      }
+    ],
+    "city": [
+      {
+        "City": "Phoenix",
+        "sales": 4101557.1,
+        "profit": 951613.61,
+        "orders": 1898,
+        "margin": 0.23201276656614142
+      },
+      {
+        "City": "Boston",
+        "sales": 3739819.6,
+        "profit": 880027.41,
+        "orders": 1689,
+        "margin": 0.23531279690603257
+      },
+      {
+        "City": "San Diego",
+        "sales": 3602198.88,
+        "profit": 861793.53,
+        "orders": 1828,
+        "margin": 0.2392409632862914
+      },
+      {
+        "City": "Denver",
+        "sales": 3591381.97,
+        "profit": 840550.01,
+        "orders": 1730,
+        "margin": 0.23404639690831883
+      },
+      {
+        "City": "Orlando",
+        "sales": 3557733.87,
+        "profit": 857486.54,
+        "orders": 1762,
+        "margin": 0.24102042798383905
+      },
+      {
+        "City": "Buffalo",
+        "sales": 3518360.28,
+        "profit": 841476.92,
+        "orders": 1751,
+        "margin": 0.23916735440180678
+      },
+      {
+        "City": "Charlotte",
+        "sales": 3473477.83,
+        "profit": 825975.74,
+        "orders": 1718,
+        "margin": 0.23779502286329549
+      },
+      {
+        "City": "Los Angeles",
+        "sales": 3336084.55,
+        "profit": 784766.3,
+        "orders": 1638,
+        "margin": 0.23523573465786413
+      },
+      {
+        "City": "Richmond",
+        "sales": 3318492.0,
+        "profit": 792845.92,
+        "orders": 1571,
+        "margin": 0.23891753242135286
+      },
+      {
+        "City": "Miami",
+        "sales": 3147113.87,
+        "profit": 750514.04,
+        "orders": 1400,
+        "margin": 0.238476925526689
+      },
+      {
+        "City": "Atlanta",
+        "sales": 3008057.4,
+        "profit": 732066.64,
+        "orders": 1418,
+        "margin": 0.24336857401723785
+      },
+      {
+        "City": "Pittsburgh",
+        "sales": 3005415.31,
+        "profit": 727588.15,
+        "orders": 1455,
+        "margin": 0.24209238156838964
+      },
+      {
+        "City": "New York",
+        "sales": 2937398.91,
+        "profit": 710654.32,
+        "orders": 1455,
+        "margin": 0.24193320069013027
+      },
+      {
+        "City": "Philadelphia",
+        "sales": 2879865.41,
+        "profit": 674145.25,
+        "orders": 1285,
+        "margin": 0.23408915140933617
+      },
+      {
+        "City": "Detroit",
+        "sales": 2844406.48,
+        "profit": 660205.63,
+        "orders": 1298,
+        "margin": 0.2321066396951817
+      }
+    ]
+  },
+  "discounts": {
+    "bands": [
+      {
+        "Discount_Band": "0-10%",
+        "lines": 24875,
+        "sales": 16726067.46,
+        "profit": 4795596.23,
+        "qty": 74316,
+        "margin": 0.2867,
+        "avg_line_value": 672.4047
+      },
+      {
+        "Discount_Band": "10-20%",
+        "lines": 27181,
+        "sales": 16709377.41,
+        "profit": 3422835.2,
+        "qty": 81574,
+        "margin": 0.2048,
+        "avg_line_value": 614.7448
+      },
+      {
+        "Discount_Band": "20-30%",
+        "lines": 14469,
+        "sales": 7745234.85,
+        "profit": 767749.13,
+        "qty": 43622,
+        "margin": 0.0991,
+        "avg_line_value": 535.2986
+      },
+      {
+        "Discount_Band": "30%+",
+        "lines": 8205,
+        "sales": 3706905.9,
+        "profit": -304800.52,
+        "qty": 24809,
+        "margin": -0.0822,
+        "avg_line_value": 451.7862
+      },
+      {
+        "Discount_Band": "No Discount",
+        "lines": 33315,
+        "sales": 24017661.06,
+        "profit": 7715453.91,
+        "qty": 100241,
+        "margin": 0.3212,
+        "avg_line_value": 720.9263
+      }
+    ],
+    "corr_discount_sales": {
+      "r": -0.0766,
+      "p": 1.9812611401606682e-140
+    },
+    "corr_discount_profit": {
+      "r": -0.3236,
+      "p": 0.0
+    },
+    "corr_discount_qty": {
+      "r": 0.0039,
+      "p": 0.194974190672713
+    }
+  },
+  "stats": {
+    "ttest_discount_margin": {
+      "group_means": {
+        "no_discount": 0.3836,
+        "discounted": 0.2529
+      },
+      "t": -186.1907,
+      "p": 0.0,
+      "h0": "Mean profit margin is equal for discounted and non-discounted lines",
+      "h1": "Mean profit margin differs (discounted lines are less profitable)",
+      "decision": "Reject H0"
+    },
+    "ttest_aov_tiers": {
+      "high_tier_mean_aov": 2352.49,
+      "low_tier_mean_aov": 1087.24,
+      "t": 24.5542,
+      "p": 4.100492096334776e-94,
+      "h0": "Mean AOV is equal for high- and low-value customers",
+      "h1": "Mean AOV differs between tiers",
+      "decision": "Reject H0"
+    },
+    "anova_category_margin": {
+      "group_means": {
+        "Furniture": 0.2877,
+        "Home & Lifestyle": 0.3739,
+        "Office Supplies": 0.2997,
+        "Technology": 0.1847
+      },
+      "F": 9119.3515,
+      "p": 0.0,
+      "h0": "Mean profit margin is equal across all categories",
+      "h1": "At least one category has a different mean margin",
+      "decision": "Reject H0"
+    },
+    "anova_segment_spend": {
+      "F": 137.4263,
+      "p": 1.905630742754731e-79,
+      "h0": "Mean customer spend is equal across segments",
+      "h1": "At least one segment spends differently",
+      "decision": "Reject H0"
+    },
+    "correlation_matrix": {
+      "Sales": {
+        "Sales": 1.0,
+        "Profit": 0.686,
+        "Quantity": 0.281,
+        "Unit_Price": 0.861,
+        "Discount": -0.077,
+        "Profit_Margin": -0.225
+      },
+      "Profit": {
+        "Sales": 0.686,
+        "Profit": 1.0,
+        "Quantity": 0.277,
+        "Unit_Price": 0.496,
+        "Discount": -0.324,
+        "Profit_Margin": 0.209
+      },
+      "Quantity": {
+        "Sales": 0.281,
+        "Profit": 0.277,
+        "Quantity": 1.0,
+        "Unit_Price": 0.004,
+        "Discount": 0.004,
+        "Profit_Margin": -0.006
+      },
+      "Unit_Price": {
+        "Sales": 0.861,
+        "Profit": 0.496,
+        "Quantity": 0.004,
+        "Unit_Price": 1.0,
+        "Discount": -0.001,
+        "Profit_Margin": -0.333
+      },
+      "Discount": {
+        "Sales": -0.077,
+        "Profit": -0.324,
+        "Quantity": 0.004,
+        "Unit_Price": -0.001,
+        "Discount": 1.0,
+        "Profit_Margin": -0.749
+      },
+      "Profit_Margin": {
+        "Sales": -0.225,
+        "Profit": 0.209,
+        "Quantity": -0.006,
+        "Unit_Price": -0.333,
+        "Discount": -0.749,
+        "Profit_Margin": 1.0
+      }
+    }
+  }
+}

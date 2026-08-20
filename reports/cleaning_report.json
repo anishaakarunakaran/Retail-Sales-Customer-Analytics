@@ -1,0 +1,150 @@
+{
+  "phase1": {
+    "raw_shape": [
+      117049,
+      23
+    ],
+    "data_types": {
+      "Order_ID": "int64",
+      "Order_Date": "object",
+      "Customer_ID": "int64",
+      "Product_ID": "int64",
+      "Product_Name": "object",
+      "Category": "object",
+      "Sub_Category": "object",
+      "Quantity": "int64",
+      "Unit_Price": "float64",
+      "Discount": "object",
+      "Sales": "float64",
+      "Cost": "float64",
+      "Profit": "float64",
+      "Profit_Margin": "float64",
+      "Customer_Name": "object",
+      "Customer_Segment": "object",
+      "Age": "float64",
+      "Gender": "object",
+      "City": "object",
+      "State": "object",
+      "Region": "object",
+      "Payment_Method": "object",
+      "Order_Status": "object"
+    },
+    "missing_values": {
+      "Age": 1837,
+      "City": 1117
+    },
+    "missing_pct": {
+      "Age": 1.57,
+      "City": 0.95
+    },
+    "duplicate_rows": 367,
+    "unique_counts": {
+      "Order_ID": 35755,
+      "Order_Date": 1464,
+      "Customer_ID": 1665,
+      "Product_ID": 101,
+      "Product_Name": 101,
+      "Category": 8,
+      "Sub_Category": 20,
+      "Quantity": 10,
+      "Unit_Price": 219,
+      "Discount": 4497,
+      "Sales": 52911,
+      "Cost": 502,
+      "Profit": 33152,
+      "Profit_Margin": 7175,
+      "Customer_Name": 986,
+      "Customer_Segment": 4,
+      "Age": 51,
+      "Gender": 2,
+      "City": 24,
+      "State": 15,
+      "Region": 4,
+      "Payment_Method": 5,
+      "Order_Status": 4
+    },
+    "negative_quantity": 114,
+    "negative_unit_price": 59,
+    "invalid_dates": 140,
+    "order_status_counts": {
+      "Completed": 108698,
+      "Cancelled": 3614,
+      "Returned": 2916,
+      "Pending": 1821
+    },
+    "descriptive_stats": {
+      "Quantity": {
+        "count": 117049.0,
+        "mean": 3.0,
+        "std": 1.43,
+        "min": -5.0,
+        "25%": 2.0,
+        "50%": 3.0,
+        "75%": 4.0,
+        "max": 5.0
+      },
+      "Unit_Price": {
+        "count": 117049.0,
+        "mean": 241.51,
+        "std": 380.33,
+        "min": -1873.59,
+        "25%": 40.19,
+        "50%": 122.16,
+        "75%": 252.03,
+        "max": 22318.9
+      },
+      "Sales": {
+        "count": 117049.0,
+        "mean": 638.64,
+        "std": 1079.0,
+        "min": 2.1,
+        "25%": 94.26,
+        "50%": 250.35,
+        "75%": 682.52,
+        "max": 11159.45
+      },
+      "Profit": {
+        "count": 117049.0,
+        "mean": 151.72,
+        "std": 256.49,
+        "min": -2949.44,
+        "25%": 22.16,
+        "50%": 64.8,
+        "75%": 186.9,
+        "max": 2033.75
+      },
+      "Profit_Margin": {
+        "count": 117049.0,
+        "mean": 0.29,
+        "std": 0.14,
+        "min": -0.49,
+        "25%": 0.22,
+        "50%": 0.32,
+        "75%": 0.39,
+        "max": 0.49
+      }
+    }
+  },
+  "phase2_actions": {
+    "invalid_dates_dropped": 209,
+    "negative_quantity_dropped": 114,
+    "unit_price_recalculated": 208,
+    "discount_derived": 1445,
+    "unreconcilable_lines_dropped": 0,
+    "duplicates_dropped": 370,
+    "age_imputed": 1824,
+    "city_imputed": 1106,
+    "non_completed_excluded": 8309,
+    "rows_remaining": 108045
+  },
+  "cleaned_shape": [
+    108045,
+    30
+  ],
+  "cleaned_totals": {
+    "total_sales": 68905246.68,
+    "total_orders": 33209,
+    "total_customers": 1648,
+    "total_profit": 16396833.95
+  }
+}
