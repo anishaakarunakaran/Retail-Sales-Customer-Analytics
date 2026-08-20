@@ -265,7 +265,8 @@ retail-sales-customer-analytics/
 │   ├── rfm_analysis.py       # Phase 5 RFM -> segments + export
 │   ├── build_database.py     # Phase 6 -> SQLite from cleaned data
 │   ├── run_sql_queries.py    # executes queries -> reports/sql_results
-│   └── build_notebooks.py    # regenerates the 4 notebooks
+│   ├── build_notebooks.py    # regenerates the 4 notebooks
+│   └── build_website.py      # generates the Vercel index.html dashboard
 ├── sql/
 │   ├── schema.sql            # DDL (6 tables, FKs, indexes)
 │   ├── analysis_queries.sql  # 13 business queries
@@ -282,6 +283,8 @@ retail-sales-customer-analytics/
 │   ├── resume_pack.md        # resume bullets, LinkedIn, STAR interview
 │   └── interview_prep.md     # 50+ Q&A + 2-minute pitch
 ├── visuals/                  # charts rendered in this README
+├── index.html                # Vercel dashboard (generated)
+├── vercel.json               # Vercel static-site configuration
 ├── requirements.txt
 ├── README.md
 └── .gitignore
@@ -316,6 +319,34 @@ python -m nbconvert --to notebook --execute --inplace notebooks/*.ipynb
 
 Then follow `reports/powerbi_build_guide.md` (≈30 min) to assemble the
 Power BI dashboard from `data/cleaned/`.
+
+## Live Demo (Vercel)
+
+This repository is **Vercel-ready**. `index.html` is a self-contained
+interactive report (all charts embedded, no build step), and `vercel.json`
+ships it with sensible security headers.
+
+```bash
+# Option A — Vercel CLI (fastest)
+npm i -g vercel
+vercel --prod
+
+# Option B — Git integration (recommended for this repo)
+#   Dashboard → Import → "Retail-Sales-Customer-Analytics" → Deploy.
+#   Vercel detects a static project automatically (no framework configured).
+```
+
+Preview locally with any static server:
+
+```bash
+python -m http.server 8000    # then open http://localhost:8000
+```
+
+To rebuild the site after re-running the analysis:
+
+```bash
+python python/build_website.py   # regenerates index.html from visuals/ + reports/
+```
 
 ## Future Improvements
 
