@@ -324,7 +324,8 @@ Power BI dashboard from `data/cleaned/`.
 
 This repository is **Vercel-ready**. `index.html` is a self-contained
 interactive report (all charts embedded, no build step), and `vercel.json`
-ships it with sensible security headers.
+ships it with `"framework": null` (forces static hosting — prevents Vercel from
+mis-detecting the Python scripts as a server app) plus sensible security headers.
 
 ```bash
 # Option A — Vercel CLI (fastest)
